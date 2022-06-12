@@ -8,6 +8,10 @@
 ### Backlog list
 
 - [Discuss](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=most_relevant&query=heaviest)
+- https://leetcode.com/company/salesforce/
+- https://leetcode.com/tag/segment-tree/
+- 
+
 
 **Microsoft questions set**
 
