@@ -2,8 +2,12 @@
 
 ## DSA x256 list
 
-- [2076 - Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/)
-
+- [2076 - Process Restricted Friend Requests](./ProcessRestrictedFriendRequests/sol.md)
+- [2218. Maximum Value of K Coins From Piles](./MaximumValueOfKCoinsFromPiles/sol.md)
+- [Counting Coins II](./CountingcCoins_II/sol.md)
+- [1737. Change Minimum Characters to Satisfy One of Three Conditions](.
+  /ChangeMinimumCharactersToSatisfyOneOfThreeConditions/sol.md)
+- [799. Champagne Tower](./ChampagneTower/sol.md)
 
 ### Backlog list
 
