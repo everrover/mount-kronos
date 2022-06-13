@@ -1,0 +1,84 @@
+package MinimumFuel;
+
+import java.util.*;
+
+public class Solution {
+    private static class State implements Comparable<State>{
+        // distance is cost distance
+        public int vertex, fuel, cost;
+        public State(int vertex, int fuel, int cost) {
+            this.vertex = vertex;
+            this.fuel = fuel;
+            this.cost = cost;
+        }
+        @Override
+        public int compareTo(State state) { return this.cost -state.cost; }
+    }
+
+    private static class TravelFuelRequirement {
+        public int src, dest, fuelReq;
+    }
+
+    private static class RoadTo {
+        public int vertex, fuelReq;
+        public RoadTo(int vertex, int fuelReq){
+            this.vertex = vertex;
+            this.fuelReq = fuelReq;
+        }
+    }
+
+//    int citiesCount, connectingNodes, fuelStations;
+//    int fuelTankCapacity;
+//    Map<Integer, Integer> fuelCosts;
+//    Map<Integer, List<RoadTo>> roadToMap;
+    private int dijkstra(int citiesCount, int fuelTankCapacity, Map<Integer, List<RoadTo>> roadToMap, int distances[][], Map<Integer, Integer> fuelCosts){
+        int res = 0;
+        Queue<State> pq = new PriorityQueue<>();
+        pq.add(new State(0, fuelTankCapacity, 0));
+        while(!pq.isEmpty()){
+            State state = pq.poll();
+            if(distances[state.vertex][state.fuel] < state.cost) continue;
+            distances[state.vertex][state.fuel] = state.cost;
+            for(RoadTo roadTo: roadToMap.get(state.vertex)){
+                int toVertex = roadTo.vertex, fuelReq = roadTo.fuelReq;
+                for(int boughtFuel = fuelTankCapacity-state.fuel; boughtFuel>=0 && state.fuel+boughtFuel-fuelReq>=0; boughtFuel--){
+                    if(distances[toVertex][state.fuel+boughtFuel-fuelReq] > state.cost +boughtFuel*fuelCosts.get(state.vertex)) {
+                        distances[toVertex][state.fuel+boughtFuel-fuelReq] = state.cost +boughtFuel*fuelCosts.get(state.vertex);
+                        pq.add(new State(toVertex, state.fuel + boughtFuel - fuelReq, state.cost + boughtFuel * fuelCosts.get(state.vertex)));
+                    }
+                }
+            }
+        }
+        for(int dist: distances[citiesCount]){
+            res = Math.min(res, dist);
+        }
+        return res;
+    }
+
+    private int getMinimumFuel(
+            int citiesCount, int roadsCount, int fuelStations,
+            int fuelTankCapacity,
+            List<TravelFuelRequirement> travelFuelRequirements,
+            Map<Integer, Integer> fuelCosts
+    ){
+        Map<Integer, List<RoadTo>> roadToMap = new HashMap<>(); // adj list
+        for(TravelFuelRequirement travelFuelRequirement: travelFuelRequirements){
+            if(fuelCosts.containsKey(travelFuelRequirement.src)) {
+                if (!roadToMap.containsKey(travelFuelRequirement.src)) {
+                    roadToMap.put(travelFuelRequirement.src, new ArrayList<>());
+                }
+                roadToMap.get(travelFuelRequirement.src).add(new RoadTo(travelFuelRequirement.dest, travelFuelRequirement.fuelReq));
+            }
+            if(fuelCosts.containsKey(travelFuelRequirement.dest)) {
+                if (!roadToMap.containsKey(travelFuelRequirement.dest)) {
+                    roadToMap.put(travelFuelRequirement.dest, new ArrayList<>());
+                }
+                roadToMap.get(travelFuelRequirement.dest).add(new RoadTo(travelFuelRequirement.src, travelFuelRequirement.fuelReq));
+            }
+        }
+        int distances[][] = new int[citiesCount][fuelStations+1];
+        for(int []dist: distances) Arrays.fill(dist, Integer.MAX_VALUE);
+        int res = dijkstra(citiesCount, fuelTankCapacity, roadToMap, distances, fuelCosts);
+        return res;
+    }
+}
