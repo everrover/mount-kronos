@@ -40,7 +40,9 @@ public class Solution {
             costsToReachFromTo[state.vertex][state.fuel] = state.cost;
             for(RoadTo roadTo: roadToMap.get(state.vertex)){
                 int toVertex = roadTo.vertex, fuelReq = roadTo.fuelReq;
-                for(int boughtFuel = fuelTankCapacity-state.fuel; boughtFuel>=0 && state.fuel+boughtFuel-fuelReq>=0; boughtFuel--){
+                int boughtFuel = fuelTankCapacity-state.fuel;
+                if(!fuelCosts.containsKey(state.vertex)){ boughtFuel = 0; } // some cities don't offer refuelling as per constraints
+                for(; /*boughtFuel>=0 && */(state.fuel+boughtFuel)>=fuelReq; boughtFuel--){
                     if(costsToReachFromTo[toVertex][state.fuel+boughtFuel-fuelReq] > state.cost +boughtFuel*fuelCosts.get(state.vertex)) {
                         costsToReachFromTo[toVertex][state.fuel+boughtFuel-fuelReq] = state.cost +boughtFuel*fuelCosts.get(state.vertex);
                         pq.add(new State(toVertex, state.fuel + boughtFuel - fuelReq, state.cost + boughtFuel * fuelCosts.get(state.vertex)));
@@ -59,7 +61,7 @@ public class Solution {
             List<TravelFuelRequirement> travelFuelRequirements,
             Map<Integer, Integer> fuelCosts
     ){
-        Map<Integer, List<RoadTo>> roadToMap = new HashMap<>(); // adj list
+        Map<Integer, List<RoadTo>> roadToMap = new HashMap<>(); // adj list - roads originating `from` a node, `to` a node with `amount` of fuel required to reach at `to` node from `from` node
         for(TravelFuelRequirement travelFuelRequirement: travelFuelRequirements){
 //            if(fuelCosts.containsKey(travelFuelRequirement.src)) { // path still exists from this node
             if (!roadToMap.containsKey(travelFuelRequirement.src)) { roadToMap.put(travelFuelRequirement.src, new ArrayList<>()); }
@@ -70,9 +72,9 @@ public class Solution {
 //        for(int i=0; i<citiesCount; i++){
 //            fuelCosts.putIfAbsent(i, 200000); // double of value provided in constraints - fuel can be refilled from this point - if added a path would be present with high costs
 //        }
-        int[][] costsToReachFromTo = new int[citiesCount][fuelStations+1];
+        int[][] costsToReachFromTo = new int[citiesCount][fuelStations+1]; // minimum cost of fuel required to reach at `vertex` with `fuel`
         for(int []dist: costsToReachFromTo) Arrays.fill(dist, Integer.MAX_VALUE);
         int res = dijkstrasAlgorithmWithStateMap(citiesCount, fuelTankCapacity, roadToMap, costsToReachFromTo, fuelCosts);
-        return res;
+        return res==Integer.MAX_VALUE? -1: res;
     }
 }
