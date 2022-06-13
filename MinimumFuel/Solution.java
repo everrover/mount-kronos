@@ -70,9 +70,6 @@ public class Solution {
             if (!roadToMap.containsKey(travelFuelRequirement.dest)) { roadToMap.put(travelFuelRequirement.dest, new ArrayList<>()); }
             roadToMap.get(travelFuelRequirement.dest).add(new RoadTo(travelFuelRequirement.src, travelFuelRequirement.fuelReq));
         }
-//        for(int i=0; i<citiesCount; i++){
-//            fuelCosts.putIfAbsent(i, 200000); // double of value provided in constraints - fuel can be refilled from this point - if added a path would be present with high costs
-//        }
         int[][] costsToReachFromTo = new int[citiesCount][fuelStations+1]; // minimum cost of fuel required to reach at `vertex` with `fuel`
         int[][] pathsToReachFromTo = new int[citiesCount][fuelStations+1]; // path associated with above
         for(int []dist: costsToReachFromTo) Arrays.fill(dist, Integer.MAX_VALUE);

@@ -1,4 +1,4 @@
-# [Counting Coins II](https://leetcode.com/problems/coin-change-2)
+# [518. Counting Coins II](https://leetcode.com/problems/coin-change-2)
 
 **#dynamic-programming**
 **#unbounded-knapsack**
