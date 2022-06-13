@@ -31,7 +31,7 @@ public class Solution {
 //    int fuelTankCapacity;
 //    Map<Integer, Integer> fuelCosts;
 //    Map<Integer, List<RoadTo>> roadToMap;
-    private int dijkstrasAlgorithmWithStateMap(int citiesCount, int fuelTankCapacity, Map<Integer, List<RoadTo>> roadToMap, int [][]costsToReachFromTo, Map<Integer, Integer> fuelCosts){
+    private int dijkstrasAlgorithmWithStateMap(int citiesCount, int fuelTankCapacity, Map<Integer, List<RoadTo>> roadToMap, int [][]costsToReachFromTo, int [][]pathsToReachFromTo, Map<Integer, Integer> fuelCosts){
         Queue<State> pq = new PriorityQueue<>();
         pq.add(new State(0, fuelTankCapacity, 0));
         while(!pq.isEmpty()){
@@ -45,6 +45,7 @@ public class Solution {
                 for(; /*boughtFuel>=0 && */(state.fuel+boughtFuel)>=fuelReq; boughtFuel--){
                     if(costsToReachFromTo[toVertex][state.fuel+boughtFuel-fuelReq] > state.cost +boughtFuel*fuelCosts.get(state.vertex)) {
                         costsToReachFromTo[toVertex][state.fuel+boughtFuel-fuelReq] = state.cost +boughtFuel*fuelCosts.get(state.vertex);
+                        pathsToReachFromTo[toVertex][state.fuel+boughtFuel-fuelReq] = state.vertex;
                         pq.add(new State(toVertex, state.fuel + boughtFuel - fuelReq, state.cost + boughtFuel * fuelCosts.get(state.vertex)));
                     }
                 }
@@ -73,8 +74,10 @@ public class Solution {
 //            fuelCosts.putIfAbsent(i, 200000); // double of value provided in constraints - fuel can be refilled from this point - if added a path would be present with high costs
 //        }
         int[][] costsToReachFromTo = new int[citiesCount][fuelStations+1]; // minimum cost of fuel required to reach at `vertex` with `fuel`
+        int[][] pathsToReachFromTo = new int[citiesCount][fuelStations+1]; // path associated with above
         for(int []dist: costsToReachFromTo) Arrays.fill(dist, Integer.MAX_VALUE);
-        int res = dijkstrasAlgorithmWithStateMap(citiesCount, fuelTankCapacity, roadToMap, costsToReachFromTo, fuelCosts);
+        for(int []path: pathsToReachFromTo) Arrays.fill(path, -1);
+        int res = dijkstrasAlgorithmWithStateMap(citiesCount, fuelTankCapacity, roadToMap, costsToReachFromTo, pathsToReachFromTo, fuelCosts);
         return res==Integer.MAX_VALUE? -1: res;
     }
 }
