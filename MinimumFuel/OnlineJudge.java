@@ -85,7 +85,7 @@ public class OnlineJudge {
             Arrays.fill(costsToReachFromTo[i], Integer.MAX_VALUE);
             Arrays.fill(pathsToReachFromTo[i], -1);
         }
-        Arrays.fill(costsToReachFromTo[qStart], 0); costsToReachFromTo[qStart][0] = Integer.MAX_VALUE;
+//        Arrays.fill(costsToReachFromTo[qStart], 0); costsToReachFromTo[qStart][0] = Integer.MAX_VALUE;
         int res = dijkstrasAlgorithmWithStateMap(citiesCount, fuelTankCapacity, roadToMap, costsToReachFromTo, pathsToReachFromTo, fuelCosts, qStart, qEnd);
         return res==Integer.MAX_VALUE? -1: res;
     }
