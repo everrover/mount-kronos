@@ -13,7 +13,10 @@
 - [Discuss](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=most_relevant&query=heaviest)
 - https://leetcode.com/company/salesforce/
 - https://leetcode.com/tag/segment-tree/
-- 
+- https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1210
+- https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2487
+- https://www.codechef.com/AMR18ROL/problems/PALPATH
+- https://stackoverflow.com/questions/53357989/gas-station-dynamic-programming
 
 
 **Microsoft questions set**
