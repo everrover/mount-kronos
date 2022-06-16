@@ -6,7 +6,9 @@
 For each available coin we have two possibilities.
 
 Either we include a coin or we don't, all while utilizing the complete capacity of our 
-**knapsack**. Earlier I thought that sorted array was needed, but it wasn't.
+**knapsack**. Earlier I thought that sorted array was needed, but it wasn't. Essentially it's a 
+variant of unbounded(we can put in as many elements as we require in our knapsack) knapsack 
+algorithm.
 
 Recursive solution for same was,
 ```
