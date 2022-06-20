@@ -15,7 +15,7 @@ s2 1 2 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 ```
 
 Consider above example. If we assume s1 to be greater than s2, and say that s1 will only use 
-characters greater than equal to `e`, then s2 will only include characters lesser than `e`. So, 
+characters greater than or equal to `e`, then s2 will only include characters lesser than `e`. So, 
 for this case the number of swaps would be `count of all characters greater than 'e' in s2 + 
 count of all characters smaller than 'e' in s1`. We do this for all characters, once assuming s1 
 to be greater and otherwise assuming s2 to be larger. Since all counts will be `>0` we'll use 
