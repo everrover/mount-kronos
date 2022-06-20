@@ -2,15 +2,17 @@
 
 ## DSA x256 list
 
-- [315. Count of Smaller Numbers After Self](./)
+- [235. Lowest Common Ancestor of a Binary Search Tree](./LCA/Solution.java)
+- [315. Count of Smaller Numbers After Self](./CountOfSmallerElementsAfterSelf/sol.md)
 - [518. Counting Coins II](./CountingcCoins_II/sol.md)
 - [799. Champagne Tower](./ChampagneTower/sol.md)
+- [1202. Smallest String With Swaps](./SmallestStringWithSwaps/sol.md)
 - [1534. Count Good Triplets](./CountGoodTriplets/Solution.java)
 - [1547. Minimum Cost to Cut a Stick](./MinimumCostToCutStick/sol.md)
 - [1737. Change Minimum Characters to Satisfy One of Three Conditions](./ChangeMinimumCharactersToSatisfyOneOfThreeConditions/sol.md)
 - [2076. Process Restricted Friend Requests](./ProcessRestrictedFriendRequests/sol.md)
 - [2218. Maximum Value of K Coins From Piles](./MaximumValueOfKCoinsFromPiles/sol.md)
-
+- [740. Delete and Earn](./DeleteAndEarn/sol.md)
 ### Backlog list
 
 - https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/
