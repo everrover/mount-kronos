@@ -93,3 +93,5 @@ Hence the output is 134000.
 Sources:
 - [CodeForces](https://codeforces.com/blog/entry/45897)
 - [OJ](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2352)
+- [Pastebin](http://pastebin.com/gqNJk9yN)
+- [Pastebin](http://pastebin.com/Kv9XdAfq)

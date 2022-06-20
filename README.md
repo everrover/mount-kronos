@@ -13,9 +13,12 @@
 - [2076. Process Restricted Friend Requests](./ProcessRestrictedFriendRequests/sol.md)
 - [2218. Maximum Value of K Coins From Piles](./MaximumValueOfKCoinsFromPiles/sol.md)
 - [740. Delete and Earn](./DeleteAndEarn/sol.md)
+
 ### Backlog list
 
+- https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/
 - https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/
+- https://leetcode.com/problems/minimum-window-substring/
 - https://leetcode.com/problems/stone-game/
 - https://leetcode.com/problems/longest-string-chain/
 - https://leetcode.com/problems/largest-divisible-subset/
@@ -41,6 +44,9 @@
 - https://www.codechef.com/AMR18ROL/problems/PALPATH
 - https://stackoverflow.com/questions/53357989/gas-station-dynamic-programming
 
+### [DP backlog](./dynamicProgrammingBacklog.md)
+### [LinkedIn IE #1](./linkedInIP.md)
+### [DP Leetcode set](https://leetcode.com/explore/learn/card/dynamic-programming/)
 
 **Microsoft questions set**
 
