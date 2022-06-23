@@ -2,24 +2,27 @@
 
 ## DSA x256 list
 
-- [235. Lowest Common Ancestor of a Binary Search Tree](./LCA/Solution.java)
-- [315. Count of Smaller Numbers After Self](./CountOfSmallerElementsAfterSelf/sol.md)
-- [518. Counting Coins II](./CountingcCoins_II/sol.md)
-- [799. Champagne Tower](./ChampagneTower/sol.md)
-- [1202. Smallest String With Swaps](./SmallestStringWithSwaps/sol.md)
-- [1534. Count Good Triplets](./CountGoodTriplets/Solution.java)
-- [1547. Minimum Cost to Cut a Stick](./MinimumCostToCutStick/sol.md)
-- [1737. Change Minimum Characters to Satisfy One of Three Conditions](./ChangeMinimumCharactersToSatisfyOneOfThreeConditions/sol.md)
-- [2076. Process Restricted Friend Requests](./ProcessRestrictedFriendRequests/sol.md)
-- [2218. Maximum Value of K Coins From Piles](./MaximumValueOfKCoinsFromPiles/sol.md)
-- [740. Delete and Earn](./DeleteAndEarn/sol.md)
+| Number | Name                                                                                                                          | Tags                                                |
+|--------|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| 235    | [Lowest Common Ancestor of a Binary Search Tree](./LCA/Solution.java)                                                         | **#easy #binary-tree**                              |
+| 315    | [Count of Smaller Numbers After Self](./CountOfSmallerElementsAfterSelf/sol.md)                                               | **# **                                              |    
+| 518    | [Counting Coins II](./CountingcCoins_II/sol.md)                                                                               | **#simulation #dynamic-programming**                |    
+| 740    | [Delete and Earn](./DeleteAndEarn/sol.md)                                                                                     |                                                     |    
+| 799    | [Champagne Tower](./ChampagneTower/sol.md)                                                                                    |                                                     |    
+| 877    | [Stone Game](./StoneGame/sol.md)                                                                                              | **#dynamic-programming #game-theory #greedy #math** |    
+| 1202   | [Smallest String With Swaps](./SmallestStringWithSwaps/sol.md)                                                                |                                                     |   
+| 1534   | [Count Good Triplets](./CountGoodTriplets/Solution.java)                                                                      |                                                     |   
+| 1547   | [Minimum Cost to Cut a Stick](./MinimumCostToCutStick/sol.md)                                                                 |                                                     |   
+| 1737   | [Change Minimum Characters to Satisfy One of Three Conditions](./ChangeMinimumCharactersToSatisfyOneOfThreeConditions/sol.md) |                                                     |   
+| 2076   | [Process Restricted Friend Requests](./ProcessRestrictedFriendRequests/sol.md)                                                |                                                     |   
+| 2218   | [Maximum Value of K Coins From Piles](./MaximumValueOfKCoinsFromPiles/sol.md)                                                 |                                                     |   
+| 2295   | [Replace Elements in an Array](./ReplaceElementsInAnArray/sol.md)                                                             |                                                     |   
 
 ### Backlog list
 
 - https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/
 - https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/
 - https://leetcode.com/problems/minimum-window-substring/
-- https://leetcode.com/problems/stone-game/
 - https://leetcode.com/problems/longest-string-chain/
 - https://leetcode.com/problems/largest-divisible-subset/
 - https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/
