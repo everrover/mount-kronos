@@ -5,11 +5,12 @@
 | Number | Name                                                                                                                          | Tags                                                |
 |--------|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
 | 235    | [Lowest Common Ancestor of a Binary Search Tree](./LCA/Solution.java)                                                         | **#easy #binary-tree**                              |
-| 315    | [Count of Smaller Numbers After Self](./CountOfSmallerElementsAfterSelf/sol.md)                                               | **# **                                              |    
+| 315    | [Count of Smaller Numbers After Self](./CountOfSmallerElementsAfterSelf/sol.md)                                               |                                                     |    
 | 518    | [Counting Coins II](./CountingcCoins_II/sol.md)                                                                               | **#simulation #dynamic-programming**                |    
 | 740    | [Delete and Earn](./DeleteAndEarn/sol.md)                                                                                     |                                                     |    
 | 799    | [Champagne Tower](./ChampagneTower/sol.md)                                                                                    |                                                     |    
 | 877    | [Stone Game](./StoneGame/sol.md)                                                                                              | **#dynamic-programming #game-theory #greedy #math** |    
+| 1514   | [Path with Maximum Probability](./PathWithMaxProbability/sol.md)                                                              | **#dijkstras-algorithm**                            |
 | 1202   | [Smallest String With Swaps](./SmallestStringWithSwaps/sol.md)                                                                |                                                     |   
 | 1534   | [Count Good Triplets](./CountGoodTriplets/Solution.java)                                                                      |                                                     |   
 | 1547   | [Minimum Cost to Cut a Stick](./MinimumCostToCutStick/sol.md)                                                                 |                                                     |   
@@ -17,6 +18,8 @@
 | 2076   | [Process Restricted Friend Requests](./ProcessRestrictedFriendRequests/sol.md)                                                |                                                     |   
 | 2218   | [Maximum Value of K Coins From Piles](./MaximumValueOfKCoinsFromPiles/sol.md)                                                 |                                                     |   
 | 2295   | [Replace Elements in an Array](./ReplaceElementsInAnArray/sol.md)                                                             |                                                     |   
+| Unk    | [Dijkstra's algorithm](./DijkstrasAlgorithm/sol.md)                                                                           | **#graph-theory #dynamic-programming**              |
+|        |                                                                                                                               |                                                     |
 
 ### Backlog list
 
@@ -47,9 +50,26 @@
 - https://www.codechef.com/AMR18ROL/problems/PALPATH
 - https://stackoverflow.com/questions/53357989/gas-station-dynamic-programming
 
+## _Dynamic programming_
+
 ### [DP backlog](./dynamicProgrammingBacklog.md)
 ### [LinkedIn IE #1](./linkedInIP.md)
 ### [DP Leetcode set](https://leetcode.com/explore/learn/card/dynamic-programming/)
+
+## Dijkstra's algorithm
+
+### [LC Blog-1](https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions)
+### [LC List-1](https://leetcode.com/list/53js48ke/)
+
+## Articulation points
+
+### [LC Blog-2](https://leetcode.com/discuss/general-discussion/709997/questions-based-on-articulation-points-and-bridges/799168)
+
+## Segment tree
+
+- https://www.geeksforgeeks.org/range-queries-to-count-the-number-of-even-parity-values-with-updates/
+### 
+
 
 **Microsoft questions set**
 
