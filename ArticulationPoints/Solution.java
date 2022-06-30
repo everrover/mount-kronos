@@ -26,7 +26,7 @@ public class Solution {
             if(child == parent) continue;
             if(!isVisited[child]){
                 childCount++;
-                findAP(child, vertex);
+                findAP(child, vertex); // pass -1 as parent for directed graphs
                 low[vertex] = Math.min(low[vertex], low[child]);
                 if(low[child] >= discovery[vertex] && parent != -1){
                     isAP[vertex] = true;
@@ -38,7 +38,7 @@ public class Solution {
                 low[vertex] = Math.min(low[vertex], discovery[child]);
             }
         }
-        if(parent == -1 && childCount > 1){
+        if(parent == -1 && childCount > 1){ // sue -2 as parent for directed graphs
             isAP[vertex] = true;
         }
     }
@@ -50,14 +50,14 @@ public class Solution {
         this.discovery = new int[this.nodes];
         this.isAP = new boolean[this.nodes];
         this.bridges = new LinkedList<>();
-        this.findAP(start, -1);
+        this.findAP(start, -1); // pass -2 as parent for directed graphs
         return bridges.size();
     }
 
     public static void main(String[] args) {
         Solution s = new Solution();
 
-        s.edges = new int[][]{ // for directed graph
+        s.edges = new int[][]{ // for undirected graph
                 {1,2},
                 {0,2},
                 {0,1,3},
@@ -69,6 +69,19 @@ public class Solution {
                 {7,9},
                 {3,7,8}
         };
+
+//        s.edges = new int[][]{ // for directed graph
+//                {1,2},
+//                {0,2},
+//                {0,1,3},
+//                {2,4,5},
+//                {3,5,7},
+//                {4,6},
+//                {5},
+//                {4,8,9},
+//                {7},
+//                {3,7}
+//        };
 
         System.out.println(s.findAP(0));
         System.out.println(s.findAP(1));
