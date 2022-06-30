@@ -2,24 +2,24 @@
 
 ## DSA x256 list
 
-| Number | Name                                                                                                                          | Tags                                                |
-|--------|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| 235    | [Lowest Common Ancestor of a Binary Search Tree](./LCA/Solution.java)                                                         | **#easy #binary-tree**                              |
-| 315    | [Count of Smaller Numbers After Self](./CountOfSmallerElementsAfterSelf/sol.md)                                               |                                                     |    
-| 518    | [Counting Coins II](./CountingcCoins_II/sol.md)                                                                               | **#simulation #dynamic-programming**                |    
-| 740    | [Delete and Earn](./DeleteAndEarn/sol.md)                                                                                     |                                                     |    
-| 799    | [Champagne Tower](./ChampagneTower/sol.md)                                                                                    |                                                     |    
-| 877    | [Stone Game](./StoneGame/sol.md)                                                                                              | **#dynamic-programming #game-theory #greedy #math** |    
-| 1514   | [Path with Maximum Probability](./PathWithMaxProbability/sol.md)                                                              | **#dijkstras-algorithm**                            |
-| 1202   | [Smallest String With Swaps](./SmallestStringWithSwaps/sol.md)                                                                |                                                     |   
-| 1534   | [Count Good Triplets](./CountGoodTriplets/Solution.java)                                                                      |                                                     |   
-| 1547   | [Minimum Cost to Cut a Stick](./MinimumCostToCutStick/sol.md)                                                                 |                                                     |   
-| 1737   | [Change Minimum Characters to Satisfy One of Three Conditions](./ChangeMinimumCharactersToSatisfyOneOfThreeConditions/sol.md) |                                                     |   
-| 2076   | [Process Restricted Friend Requests](./ProcessRestrictedFriendRequests/sol.md)                                                |                                                     |   
-| 2218   | [Maximum Value of K Coins From Piles](./MaximumValueOfKCoinsFromPiles/sol.md)                                                 |                                                     |   
-| 2295   | [Replace Elements in an Array](./ReplaceElementsInAnArray/sol.md)                                                             |                                                     |   
-| Unk    | [Dijkstra's algorithm](./DijkstrasAlgorithm/sol.md)                                                                           | **#graph-theory #dynamic-programming**              |
-|        |                                                                                                                               |                                                     |
+| Number | Name                                                                                                                          | Tags                                                    |
+|--------|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
+| 235    | [Lowest Common Ancestor of a Binary Search Tree](./LCA/Solution.java)                                                         | **#easy #binary-tree**                                  |
+| 315    | [Count of Smaller Numbers After Self](./CountOfSmallerElementsAfterSelf/sol.md)                                               |                                                         |    
+| 518    | [Counting Coins II](./CountingcCoins_II/sol.md)                                                                               | **#simulation #dynamic-programming**                    |    
+| 740    | [Delete and Earn](./DeleteAndEarn/sol.md)                                                                                     |                                                         |    
+| 799    | [Champagne Tower](./ChampagneTower/sol.md)                                                                                    |                                                         |    
+| 877    | [Stone Game](./StoneGame/sol.md)                                                                                              | **#dynamic-programming #game-theory #greedy #math**     |    
+| 1192   | Connections in a Network - [Articulation points](./ArticulationPoints/sol.md)                                                 | **#dynamic-programming #graph-theory #cycle-detection** |
+| 1202   | [Smallest String With Swaps](./SmallestStringWithSwaps/sol.md)                                                                |                                                         |   
+| 1514   | [Path with Maximum Probability](./PathWithMaxProbability/sol.md)                                                              | **#dijkstras-algorithm**                                |
+| 1534   | [Count Good Triplets](./CountGoodTriplets/Solution.java)                                                                      |                                                         |   
+| 1547   | [Minimum Cost to Cut a Stick](./MinimumCostToCutStick/sol.md)                                                                 |                                                         |   
+| 1737   | [Change Minimum Characters to Satisfy One of Three Conditions](./ChangeMinimumCharactersToSatisfyOneOfThreeConditions/sol.md) |                                                         |   
+| 2076   | [Process Restricted Friend Requests](./ProcessRestrictedFriendRequests/sol.md)                                                |                                                         |   
+| 2218   | [Maximum Value of K Coins From Piles](./MaximumValueOfKCoinsFromPiles/sol.md)                                                 |                                                         |   
+| 2295   | [Replace Elements in an Array](./ReplaceElementsInAnArray/sol.md)                                                             |                                                         |   
+| Unk    | [Dijkstra's algorithm](./DijkstrasAlgorithm/sol.md)                                                                           | **#graph-theory #dynamic-programming**                  |
 
 ### Backlog list
 
@@ -31,7 +31,10 @@
 - https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/
 - https://leetcode.com/problems/number-of-islands-ii/
 - https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/submissions/
-- https://leetcode.com/problems/critical-connections-in-a-network/
+- https://leetcode.com/problems/count-pairs-of-nodes/
+- https://leetcode.com/problems/valid-arrangement-of-pairs/
+- https://leetcode.com/problems/minimum-cost-to-connect-sticks/
+- https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
 - https://www.geeksforgeeks.org/print-nodes-top-view-binary-tree/
 - https://leetcode.com/problems/number-of-islands/
 - https://leetcode.com/problems/number-of-valid-words-in-a-sentence/
