@@ -5,6 +5,7 @@ As per Mr.I(the internet I mean), it has several advantages and applications tha
 - Ability to use in distributed systems and distributed computational models. This I'm really wondering about... how?
 - Ability to use with negative edge weights
 
-The solution(SPT) is built incrementally, using DP in a bottom up manner. It does so
+The solution(SPT) is built incrementally, using DP in a bottom up manner. It does so by adding one SPT node to tree at each 
+iteration. The code has better explanation.
 
 The TC is `O(VE)` and MC is `O(V+E)`(edges and SPT array)
