@@ -50,24 +50,24 @@ public class Solution {
         this.discovery = new int[this.nodes];
         this.isAP = new boolean[this.nodes];
         this.bridges = new LinkedList<>();
-        this.findAP(3, -1);
+        this.findAP(start, -1);
         return bridges.size();
     }
 
     public static void main(String[] args) {
         Solution s = new Solution();
 
-        s.edges = new int[][]{
+        s.edges = new int[][]{ // for directed graph
                 {1,2},
                 {0,2},
                 {0,1,3},
-                {2,4,5},
+                {2,4,5,9},
                 {3,5,7},
-                {4,6},
+                {3,4,6},
                 {5},
                 {4,8,9},
-                {7},
-                {3,7}
+                {7,9},
+                {3,7,8}
         };
 
         System.out.println(s.findAP(0));
