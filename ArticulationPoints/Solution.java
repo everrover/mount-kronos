@@ -16,7 +16,7 @@ public class Solution {
     private boolean []isAP;
     private List<Edge> bridges;
     private int [][]edges;
-    private int []low, discovery; // the earliest discovery time for all the descendents of this node, earliest discovery time of vertex
+    private int []low, discovery; // the earliest possible discovery time for all the descendents of this node, earliest discovery time of vertex
     private boolean []isVisited;
     private void findAP(int vertex, int parent){
         isVisited[vertex] = true;
