@@ -20,6 +20,8 @@
 | 2218   | [Maximum Value of K Coins From Piles](./MaximumValueOfKCoinsFromPiles/sol.md)                                                 |                                                         |   
 | 2295   | [Replace Elements in an Array](./ReplaceElementsInAnArray/sol.md)                                                             |                                                         |   
 | Unk    | [Dijkstra's algorithm](./DijkstrasAlgorithm/sol.md)                                                                           | **#graph-theory #dynamic-programming**                  |
+| Unk    | [Bellman Ford algorithm](./BellmanFord/sol.md)                                                                                | **#graph-theory #dynamic-programming**                  |
+| Unk    | [Floyd Warshall algorithm](./FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                  |
 
 ### Backlog list
 
