@@ -19,6 +19,8 @@
 | 2076   | [Process Restricted Friend Requests](./ProcessRestrictedFriendRequests/sol.md)                                                |                                                         |   
 | 2218   | [Maximum Value of K Coins From Piles](./MaximumValueOfKCoinsFromPiles/sol.md)                                                 |                                                         |   
 | 2295   | [Replace Elements in an Array](./ReplaceElementsInAnArray/sol.md)                                                             |                                                         |   
+| 2320   | [Count Number of Ways to Place Houses](./CountNumberWaysToPlaceHouses/sol.md)                                                 |                                                         |
+| 2321   | [Maximum Score Of Spliced Array](./MaxScoreOfSplicedArray/sol.md)                                                             |                                                         |
 | Unk    | [Dijkstra's algorithm](./DijkstrasAlgorithm/sol.md)                                                                           | **#graph-theory #dynamic-programming**                  |
 | Unk    | [Bellman Ford algorithm](./BellmanFord/sol.md)                                                                                | **#graph-theory #dynamic-programming**                  |
 | Unk    | [Floyd Warshall algorithm](./FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                  |
@@ -26,6 +28,9 @@
 ### Backlog list
 
 - https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/
+- https://leetcode.com/problems/count-ways-to-make-array-with-product/
+- https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/
+- https://leetcode.com/problems/count-fertile-pyramids-in-a-land/
 - https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/
 - https://leetcode.com/problems/minimum-window-substring/
 - https://leetcode.com/problems/longest-string-chain/
@@ -73,7 +78,8 @@
 ## Segment tree
 
 - https://www.geeksforgeeks.org/range-queries-to-count-the-number-of-even-parity-values-with-updates/
-### 
+
+### Fenwick tree
 
 
 **Microsoft questions set**

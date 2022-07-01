@@ -1,4 +1,4 @@
-package CountNumberOfHouses;
+package CountNumberWaysToPlaceHouses;
 
 import java.util.Arrays;
 
