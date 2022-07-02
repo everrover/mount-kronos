@@ -19,6 +19,8 @@
 | 2076   | [Process Restricted Friend Requests](./ProcessRestrictedFriendRequests/sol.md)                                                |                                                         |   
 | 2218   | [Maximum Value of K Coins From Piles](./MaximumValueOfKCoinsFromPiles/sol.md)                                                 |                                                         |   
 | 2295   | [Replace Elements in an Array](./ReplaceElementsInAnArray/sol.md)                                                             |                                                         |   
+| 2318   | [Number of Distinct Roll Sequences](./NumberOfDistinctRollSeq/sol.md)                                                         | **#backtracking #dynamic-programming**                  |
+|        |                                                                                                                               |                                                         |
 | 2320   | [Count Number of Ways to Place Houses](./CountNumberWaysToPlaceHouses/sol.md)                                                 |                                                         |
 | 2321   | [Maximum Score Of Spliced Array](./MaxScoreOfSplicedArray/sol.md)                                                             |                                                         |
 | Unk    | [Dijkstra's algorithm](./DijkstrasAlgorithm/sol.md)                                                                           | **#graph-theory #dynamic-programming**                  |
@@ -59,6 +61,19 @@
 - https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2487
 - https://www.codechef.com/AMR18ROL/problems/PALPATH
 - https://stackoverflow.com/questions/53357989/gas-station-dynamic-programming
+- https://leetcode.com/problems/number-of-distinct-islands/
+- https://leetcode.com/problems/house-robber/
+- https://leetcode.com/problems/house-robber-ii/
+- https://leetcode.com/problems/house-robber-iii/
+- https://leetcode.com/problems/maximum-product-subarray/
+- https://leetcode.com/problems/paint-house/
+- https://leetcode.com/problems/paint-fence/
+- https://leetcode.com/problems/coin-path/
+- https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/
+- https://leetcode.com/problems/solving-questions-with-brainpower/
+- https://leetcode.com/problems/dice-roll-simulation/
+- https://leetcode.com/problems/paint-house-iii/
+- https://leetcode.com/problems/count-asterisks/
 
 ## _Dynamic programming_
 
