@@ -5,12 +5,12 @@ import java.util.Set;
 
 public class Soutiong {
     private static class SCC{
-        public int curr, rank;
+        public int curr/*, rank*/;
         public long count;
         public SCC parent;
         public SCC(int curr){
             this.curr = curr;
-            this.rank = 1;
+//            this.rank = 1;
             this.parent = this;
             this.count = 1L;
         }
@@ -20,13 +20,14 @@ public class Soutiong {
         SCC bp = find(b);
         if(ap == bp) return;
         else{
-            if(ap.rank > bp.rank) {
+//            if(ap.rank > bp.rank) {
+            if(ap.count > bp.count) { // using root count as rank
                 bp.parent = ap;
-                ap.rank++;
+//                ap.rank++;
                 ap.count += bp.count;
             }else{
                 ap.parent = bp;
-                bp.rank++;
+//                bp.rank++;
                 bp.count += ap.count;
             }
         }
@@ -52,7 +53,7 @@ public class Soutiong {
             // System.out.println(sccs[i].curr+":"+sccs[i].parent.curr);
             SCC a = find(sccs[i]);
             parents.add(a.curr);
-            // DFS logic
+            // DFS/BFS logic
 //            if(visited[i]) continue; // need to keep track of visited nodes
 //            int count = dfs(i); // DFS returns count of nodes found in traversal
 //            remainingNodes -= count;
