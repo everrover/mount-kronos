@@ -21,7 +21,7 @@
 | 2295   | [Replace Elements in an Array](./ReplaceElementsInAnArray/sol.md)                                                             |                                                         |   
 | 2316   | [Count Unreachable Pairs of Nodes in an Undirected Graph](./CountUnreachablePairsOfNodesInUDGraph/sol.md)                     | **#graphs #dfs #bfs #scc**                              |
 | 2318   | [Number of Distinct Roll Sequences](./NumberOfDistinctRollSeq/sol.md)                                                         | **#backtracking #dynamic-programming**                  |
-|        |                                                                                                                               |                                                         |
+| 2322   | [Minimum Score After Removals on a Tree](./MinScoreAfterRemovalsOnTree/sol.md)                                                | **#trees #graph-theory #dynamic-programming #tricky**   |
 | 2320   | [Count Number of Ways to Place Houses](./CountNumberWaysToPlaceHouses/sol.md)                                                 |                                                         |
 | 2321   | [Maximum Score Of Spliced Array](./MaxScoreOfSplicedArray/sol.md)                                                             |                                                         |
 | Unk    | [Dijkstra's algorithm](./DijkstrasAlgorithm/sol.md)                                                                           | **#graph-theory #dynamic-programming**                  |
@@ -78,6 +78,9 @@
 - https://leetcode.com/problems/check-if-matrix-is-x-matrix
 - https://leetcode.com/problems/count-sub-islands/
 - https://leetcode.com/problems/pyramid-transition-matrix/
+- https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways/
+- https://leetcode.com/problems/maximum-xor-after-operations/
+- https://leetcode.com/problems/construct-quad-tree/
 
 ## _Dynamic programming_
 
