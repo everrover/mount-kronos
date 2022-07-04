@@ -15,6 +15,7 @@
 | 1514   | [Path with Maximum Probability](./PathWithMaxProbability/sol.md)                                                              | **#dijkstras-algorithm**                                |
 | 1534   | [Count Good Triplets](./CountGoodTriplets/Solution.java)                                                                      |                                                         |   
 | 1547   | [Minimum Cost to Cut a Stick](./MinimumCostToCutStick/sol.md)                                                                 |                                                         |   
+| 1685   | [Sum of Absolute Differences in a Sorted Array](./SumOfAbsoluteDiffInSortedArrays/sol.md)                                     | **#math**                                               |
 | 1737   | [Change Minimum Characters to Satisfy One of Three Conditions](./ChangeMinimumCharactersToSatisfyOneOfThreeConditions/sol.md) |                                                         |   
 | 2076   | [Process Restricted Friend Requests](./ProcessRestrictedFriendRequests/sol.md)                                                |                                                         |   
 | 2218   | [Maximum Value of K Coins From Piles](./MaximumValueOfKCoinsFromPiles/sol.md)                                                 |                                                         |   
