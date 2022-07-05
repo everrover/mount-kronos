@@ -84,7 +84,12 @@
 - https://leetcode.com/problems/maximum-xor-after-operations/
 - https://leetcode.com/problems/construct-quad-tree/
 - https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/
-- https://leetcode.com/problems/longest-increasing-subsequence/
+- https://leetcode.com/problems/stone-game-v/
+- https://leetcode.com/problems/stone-game-vi/
+- https://leetcode.com/problems/stone-game-vii/
+- https://leetcode.com/problems/stone-game-viii/
+- https://leetcode.com/problems/stone-game-ix/
+- https://leetcode.com/problems/longest-increasing-subsequence/ - `O(n)` variant and `O(n*n)` variant
 
 ## _Dynamic programming_
 
