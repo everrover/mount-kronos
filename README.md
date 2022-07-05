@@ -6,6 +6,7 @@
 |--------|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
 | 235    | [Lowest Common Ancestor of a Binary Search Tree](./LCA/Solution.java)                                                         | **#easy #binary-tree**                                  |
 | 315    | [Count of Smaller Numbers After Self](./CountOfSmallerElementsAfterSelf/sol.md)                                               |                                                         |    
+| 354    | [354. Russian Doll Envelopes](./RussianDollEnvelopes/Solution.java)                                                           |                                                         |
 | 518    | [Counting Coins II](./CountingcCoins_II/sol.md)                                                                               | **#simulation #dynamic-programming**                    |    
 | 740    | [Delete and Earn](./DeleteAndEarn/sol.md)                                                                                     |                                                         |    
 | 799    | [Champagne Tower](./ChampagneTower/sol.md)                                                                                    |                                                         |    
@@ -82,6 +83,8 @@
 - https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways/
 - https://leetcode.com/problems/maximum-xor-after-operations/
 - https://leetcode.com/problems/construct-quad-tree/
+- https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/
+- https://leetcode.com/problems/longest-increasing-subsequence/
 
 ## _Dynamic programming_
 
