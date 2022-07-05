@@ -139,3 +139,4 @@
 - Head first design
 - Designing data intensive applications
 - https://www.youtube.com/watch?v=FKA2KgkkcqY
+- Design of Google Docs and similar tools
