@@ -7,7 +7,7 @@ Question : Binary search on rotated search array, https://leetcode.com/problems/
 
 3rd round - DSA round
 
-Questions: Find LCA in a BST , find number of island in a matrix of 0 and 1
+Questions: Find FirstThreeTwo.LCA in a BST , find number of island in a matrix of 0 and 1
 
 4th round - DSA round
 
