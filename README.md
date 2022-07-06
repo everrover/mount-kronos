@@ -2,37 +2,37 @@
 
 ## DSA x256 list
 
-| Number | Name                                                                                                                          | Tags                                                    |
-|--------|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
-| 235    | [Lowest Common Ancestor of a Binary Search Tree](./LCA/Solution.java)                                                         | **#easy #binary-tree**                                  |
-| 315    | [Count of Smaller Numbers After Self](./CountOfSmallerElementsAfterSelf/sol.md)                                               |                                                         |    
-| 354    | [354. Russian Doll Envelopes](./RussianDollEnvelopes/Solution.java)                                                           |                                                         |
-| 518    | [Counting Coins II](./CountingcCoins_II/sol.md)                                                                               | **#simulation #dynamic-programming**                    |    
-| 740    | [Delete and Earn](./DeleteAndEarn/sol.md)                                                                                     |                                                         |    
-| 799    | [Champagne Tower](./ChampagneTower/sol.md)                                                                                    |                                                         |    
-| 877    | [Stone Game](./StoneGame/sol.md)                                                                                              | **#dynamic-programming #game-theory #greedy #math**     |    
-| 1192   | Connections in a Network - [Articulation points](./ArticulationPoints/sol.md)                                                 | **#dynamic-programming #graph-theory #cycle-detection** |
-| 1202   | [Smallest String With Swaps](./SmallestStringWithSwaps/sol.md)                                                                |                                                         |   
-| 1514   | [Path with Maximum Probability](./PathWithMaxProbability/sol.md)                                                              | **#dijkstras-algorithm**                                |
-| 1534   | [Count Good Triplets](./CountGoodTriplets/Solution.java)                                                                      |                                                         |   
-| 1547   | [Minimum Cost to Cut a Stick](./MinimumCostToCutStick/sol.md)                                                                 |                                                         |   
-| 1685   | [Sum of Absolute Differences in a Sorted Array](./SumOfAbsoluteDiffInSortedArrays/sol.md)                                     | **#math**                                               |
-| 1737   | [Change Minimum Characters to Satisfy One of Three Conditions](./ChangeMinimumCharactersToSatisfyOneOfThreeConditions/sol.md) |                                                         |   
-| 2076   | [Process Restricted Friend Requests](./ProcessRestrictedFriendRequests/sol.md)                                                |                                                         |   
-| 2218   | [Maximum Value of K Coins From Piles](./MaximumValueOfKCoinsFromPiles/sol.md)                                                 |                                                         |   
-| 2295   | [Replace Elements in an Array](./ReplaceElementsInAnArray/sol.md)                                                             |                                                         |   
-| 2316   | [Count Unreachable Pairs of Nodes in an Undirected Graph](./CountUnreachablePairsOfNodesInUDGraph/sol.md)                     | **#graphs #dfs #bfs #scc**                              |
-| 2318   | [Number of Distinct Roll Sequences](./NumberOfDistinctRollSeq/sol.md)                                                         | **#backtracking #dynamic-programming**                  |
-| 2322   | [Minimum Score After Removals on a Tree](./MinScoreAfterRemovalsOnTree/sol.md)                                                | **#trees #graph-theory #dynamic-programming #tricky**   |
-| 2320   | [Count Number of Ways to Place Houses](./CountNumberWaysToPlaceHouses/sol.md)                                                 |                                                         |
-| 2321   | [Maximum Score Of Spliced Array](./MaxScoreOfSplicedArray/sol.md)                                                             |                                                         |
-| Unk    | [Dijkstra's algorithm](./DijkstrasAlgorithm/sol.md)                                                                           | **#graph-theory #dynamic-programming**                  |
-| Unk    | [Bellman Ford algorithm](./BellmanFord/sol.md)                                                                                | **#graph-theory #dynamic-programming**                  |
-| Unk    | [Floyd Warshall algorithm](./FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                  |
+| Number | Name                                                                                                                          | Tags                                                            |
+|--------|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| 235    | [Lowest Common Ancestor of a Binary Search Tree](./LCA/Solution.java)                                                         | **#easy #binary-tree**                                          |
+| 315    | [Count of Smaller Numbers After Self](./CountOfSmallerElementsAfterSelf/sol.md)                                               |                                                                 |    
+| 354    | [354. Russian Doll Envelopes](./RussianDollEnvelopes/Solution.java)                                                           |                                                                 |
+| 518    | [Counting Coins II](./CountingcCoins_II/sol.md)                                                                               | **#simulation #dynamic-programming**                            |    
+| 740    | [Delete and Earn](./DeleteAndEarn/sol.md)                                                                                     |                                                                 |    
+| 799    | [Champagne Tower](./ChampagneTower/sol.md)                                                                                    |                                                                 |    
+| 877    | [Stone Game](./StoneGame/sol.md)                                                                                              | **#dynamic-programming #game-theory #greedy #math**             |    
+| 1192   | Connections in a Network - [Articulation points](./ArticulationPoints/sol.md)                                                 | **#dynamic-programming #graph-theory #cycle-detection**         |
+| 1202   | [Smallest String With Swaps](./SmallestStringWithSwaps/sol.md)                                                                |                                                                 |   
+| 1514   | [Path with Maximum Probability](./PathWithMaxProbability/sol.md)                                                              | **#dijkstras-algorithm**                                        |
+| 1534   | [Count Good Triplets](./CountGoodTriplets/Solution.java)                                                                      |                                                                 |   
+| 1547   | [Minimum Cost to Cut a Stick](./MinimumCostToCutStick/sol.md)                                                                 |                                                                 |   
+| 1685   | [Sum of Absolute Differences in a Sorted Array](./SumOfAbsoluteDiffInSortedArrays/sol.md)                                     | **#math**                                                       |
+| 1722   | [Minimise Hamming Distance](./MinimiseHammingDistance/Solution.java)                                                          | **#graphs #math-and-logic #strongly-connected-components #dfs** |
+| 1737   | [Change Minimum Characters to Satisfy One of Three Conditions](./ChangeMinimumCharactersToSatisfyOneOfThreeConditions/sol.md) |                                                                 |   
+| 2076   | [Process Restricted Friend Requests](./ProcessRestrictedFriendRequests/sol.md)                                                |                                                                 |   
+| 2218   | [Maximum Value of K Coins From Piles](./MaximumValueOfKCoinsFromPiles/sol.md)                                                 |                                                                 |   
+| 2295   | [Replace Elements in an Array](./ReplaceElementsInAnArray/sol.md)                                                             |                                                                 |   
+| 2316   | [Count Unreachable Pairs of Nodes in an Undirected Graph](./CountUnreachablePairsOfNodesInUDGraph/sol.md)                     | **#graphs #dfs #bfs #scc**                                      |
+| 2318   | [Number of Distinct Roll Sequences](./NumberOfDistinctRollSeq/sol.md)                                                         | **#backtracking #dynamic-programming**                          |
+| 2322   | [Minimum Score After Removals on a Tree](./MinScoreAfterRemovalsOnTree/sol.md)                                                | **#trees #graph-theory #dynamic-programming #tricky**           |
+| 2320   | [Count Number of Ways to Place Houses](./CountNumberWaysToPlaceHouses/sol.md)                                                 |                                                                 |
+| 2321   | [Maximum Score Of Spliced Array](./MaxScoreOfSplicedArray/sol.md)                                                             |                                                                 |
+| Unk    | [Dijkstra's algorithm](./DijkstrasAlgorithm/sol.md)                                                                           | **#graph-theory #dynamic-programming**                          |
+| Unk    | [Bellman Ford algorithm](./BellmanFord/sol.md)                                                                                | **#graph-theory #dynamic-programming**                          |
+| Unk    | [Floyd Warshall algorithm](./FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                          |
 
 ### Backlog list
 
-- https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/
 - https://leetcode.com/problems/count-ways-to-make-array-with-product/
 - https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/
 - https://leetcode.com/problems/count-fertile-pyramids-in-a-land/
@@ -90,6 +90,13 @@
 - https://leetcode.com/problems/stone-game-viii/
 - https://leetcode.com/problems/stone-game-ix/
 - https://leetcode.com/problems/longest-increasing-subsequence/ - `O(n)` variant and `O(n*n)` variant
+- https://leetcode.com/problems/constrained-subsequence-sum/
+- https://leetcode.com/problems/recover-the-original-array/
+- https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/
+- https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/
+- https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/
+- https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/
+- https://leetcode.com/problems/smallest-common-region/
 
 ## _Dynamic programming_
 
