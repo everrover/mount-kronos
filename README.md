@@ -101,6 +101,8 @@ Total: 32/256
 - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/
 - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/
 - https://leetcode.com/problems/smallest-common-region/
+- https://leetcode.com/problems/second-minimum-time-to-reach-destination/
+- https://leetcode.com/problems/the-time-when-the-network-becomes-idle/
 
 ## _Dynamic programming_
 
