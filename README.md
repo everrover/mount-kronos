@@ -103,6 +103,26 @@ Total: 32/256
 - https://leetcode.com/problems/smallest-common-region/
 - https://leetcode.com/problems/second-minimum-time-to-reach-destination/
 - https://leetcode.com/problems/the-time-when-the-network-becomes-idle/
+- https://dev.to/seanpgallivan/solution-next-permutation-421n
+- https://leetcode.com/problems/course-schedule-iii/
+- https://leetcode.com/problems/number-of-closed-islands/
+- https://leetcode.com/problems/max-area-of-island/
+- https://leetcode.com/problems/construct-target-array-with-multiple-sums/
+- https://leetcode.com/problems/non-decreasing-array/
+- https://leetcode.com/problems/count-asterisks/
+- https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/
+- https://leetcode.com/problems/number-of-distinct-roll-sequences/
+- https://leetcode.com/problems/non-decreasing-array/
+- https://leetcode.com/problems/check-if-matrix-is-x-matrix/
+- https://leetcode.com/problems/count-number-of-ways-to-place-houses/
+- https://leetcode.com/problems/maximum-score-of-spliced-array/
+- https://leetcode.com/problems/critical-connections-in-a-network/
+- https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
+- https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
+- https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
+- https://leetcode.com/problems/number-of-1-bits/
+- https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+- https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
 
 ## _Dynamic programming_
 
