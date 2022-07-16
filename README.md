@@ -19,6 +19,7 @@
 | 12  | 1547   | [Minimum Cost to Cut a Stick](./FirstThreeTwo/MinimumCostToCutStick/sol.md)                                                                 |                                                                 |   
 | 13  | 1685   | [Sum of Absolute Differences in a Sorted Array](./FirstThreeTwo/SumOfAbsoluteDiffInSortedArrays/sol.md)                                     | **#math**                                                       |
 | 14  | 1722   | [Minimise Hamming Distance](./FirstThreeTwo/MinimiseHammingDistance/Solution.java)                                                          | **#graphs #math-and-logic #strongly-connected-components #dfs** |
+| 15  | 1735   | [Count Ways to Make Array With Product](./SixtyFour/CountWaysToMakeArrayWithProduct.java)                                                   | **#sieve-eratosthenes #combinatorics #math #dp #tricky**        |   
 | 15  | 1737   | [Change Minimum Characters to Satisfy One of Three Conditions](./FirstThreeTwo/ChangeMinimumCharactersToSatisfyOneOfThreeConditions/sol.md) |                                                                 |   
 | 16  | 2076   | [Process Restricted Friend Requests](./FirstThreeTwo/ProcessRestrictedFriendRequests/sol.md)                                                |                                                                 |   
 | 17  | 2218   | [Maximum Value of K Coins From Piles](./FirstThreeTwo/MaximumValueOfKCoinsFromPiles/sol.md)                                                 |                                                                 |   
@@ -38,7 +39,6 @@ Total: 32/256
 ### Backlog list
 
 - https://leetcode.com/discuss/interview-question/2271498/google-oa-2022-count-pairs-problem-solved
-- https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/
 - https://leetcode.com/problems/count-ways-to-make-array-with-product/
 - https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/
 - https://leetcode.com/problems/count-fertile-pyramids-in-a-land/
