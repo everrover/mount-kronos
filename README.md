@@ -48,6 +48,9 @@ P.S I don't ount `easy` questions in above count.
 
 - https://leetcode.com/discuss/interview-question/2271498/google-oa-2022-count-pairs-problem-solved
 - https://leetcode.com/problems/count-ways-to-make-array-with-product/
+- https://leetcode.com/problems/beautiful-arrangement/
+- https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
+- https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/
 - https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/
 - https://leetcode.com/problems/count-fertile-pyramids-in-a-land/
 - https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/
@@ -217,6 +220,7 @@ P.S I don't ount `easy` questions in above count.
 - https://leetcode.com/problems/kth-smallest-instructions/
 - https://leetcode.com/problems/expression-add-operators/
 - https://leetcode.com/problems/substring-with-largest-variance/
+- https://leetcode.com/problems/reorganize-string/
 
 ## _Dynamic programming_
 
