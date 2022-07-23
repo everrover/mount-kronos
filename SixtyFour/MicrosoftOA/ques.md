@@ -40,6 +40,25 @@ Write an efficient algorithm for the following assumptions:
 - Each element of array A is an integer within
 the range [-1000000000.. 1000000000].
 
+### Solution:
+
+We calculate a prefix sum array P of length N.
+
+```
+(P[i] - P[j-1])/(i-j+1) = S
+=> P[i] = P[j-1] + (i-j+1)*S
+=> P[i]-i*S = P[j-1] - (j-1)*S
+=> for j<=i, all pairs which satisfy the above equation can define a range that can be used to calculate the required mean.
+```
+To do so, we maintain a map, `H` of {key: (count of ranges which have this sum)}. Here, `key=P[i]-i*S`. 
+For `i` indexed `prefixSum`, whenever we find a new key we add it to the map. If the key already exists, it would mean that 
+current `i` will pair up with `H[key]` many other prefix sums. So, we increment the existing count of this `H[key]` in the 
+result and then increment `H[key]` by 1.
+
+Hence, our result is obtained via, `dp[i]=dp[i-1]+H[P[i]-i*S]`. Here we store the result in `dp`.
+
+Since we don't need any prefix sum of previous elements (our memoization of `key`ed hashmap is enough), we keep a `runningSum` 
+only and not a prefix sum array. Same for `dp`.
 ---
 
 ## #2 Contiguous Subarray Count with Arithmetic Mean
@@ -69,5 +88,15 @@ Examples:
   
 Assume that: 0<=A,B,C<=100, A+B+C>0
 
+### Solution:
+
+I simply generated the combination with a greedy choice of `A>B>C` which we maintain at each recursion step. After selecting 
+the first two or less characters from `A` set, and we add one from `B` set. And recurse towards next iteration with updated 
+count of `A` and `B`.
+
+Since only had three sets, I simply used equality operators to maintain `A>B>C`. If more sets were present, I could have 
+used **min-heap** to maintain the relationship.  
+
 ---
 
+## 
