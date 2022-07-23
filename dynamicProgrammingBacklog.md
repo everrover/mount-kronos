@@ -1,5 +1,7 @@
 ## Chill baby with DP - [Source](https://leetcode.com/discuss/study-guide/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions)
 
+https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns
+
 As some folks requested to list down good Dynamic Programming problems to start practice with. So, I am listing down them below and dividing them into different DP problem pattern. Problem listed in group follow a particular pattern and similar approach to solve them. I have tried to list those which till now I have solved, might have missed a few as well. Mostly are LC Medium problems and few LC Hard ones.
 Beginner folks can wish to look at solutions listed below of particular pattern and can try to solve the other problem themselves.
 

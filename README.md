@@ -30,13 +30,19 @@
 | 2320   | [Count Number of Ways to Place Houses](./FirstThreeTwo/CountNumberWaysToPlaceHouses/sol.md)                                                 |                                                                  |
 | 2321   | [Maximum Score Of Spliced Array](./FirstThreeTwo/MaxScoreOfSplicedArray/sol.md)                                                             |                                                                  |
 | 2388   | [Count the Number of Ideal Arrays](./SixtyFour/CountIdealArrays/sol.md)                                                                     | **#combinatorics #dynamic-programming #tricky #hard**            |
+| 2347   | [Best Poker Hand](./SixtyFour/BestPokerHand.java)                                                                                           | **#easy**                                                        |
+| 2348   | [Number of Zero-Filled Subarrays](./SixtyFour/ZeroFilledSubArrays/Solution.java)                                                            | **#combinatorics**                                               |
+| 2349   | [Design a Number Container System](./SixtyFour/NumberContainerSystem/NumberContainers.java)                                                 | **#maps #sets #bst #augmented-data-str**                         |
+| 2350   | [Shortest Impossible Sequence of Rolls](./SixtyFour/ShortestImpossibleSeqOfRolls/Solution.java)                                             | **#maps #sets #bst #augmented-data-str**                         |
 | MSOA   | [Contiguous Subarray Count with Arithmetic Mean](./SixtyFour/MicrosoftOA/ques.md)                                                           | **#maths #dynamic-programming #tricky**                          |
 | MSOA   | [Build max-sized array with constraints](./SixtyFour/MicrosoftOA/ques.md)                                                                   | **#smart-enumeration #backtracking #on-constraint-switch #heap** |
 | Unk    | [Bellman Ford algorithm](./FirstThreeTwo/BellmanFord/sol.md)                                                                                | **#graph-theory #dynamic-programming**                           |
 | Unk    | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                           |
 
 Unlisted: 5
-Total: 37/256
+Total: 40/256
+
+P.S I don't ount `easy` questions in above count.
 
 ### Backlog list
 
