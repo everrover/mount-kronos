@@ -81,7 +81,7 @@ public class Solution {
     }
 
 
-    public int idealArrays(int n, int maxValue){// #3 - MLE
+    public int idealArraysWQ(int n, int maxValue){// #3 - MLE
         if(pascal == null) buildPascals(10015,15);
         long res = 0;
         Queue<Integer> q = new LinkedList<>();
@@ -117,9 +117,35 @@ public class Solution {
         return (int)res;
     }
 
+    private int N, MAXVAL;
+    public int idealArrays(int n, int maxValue) { // throws of a big ass TLE #1
+        if(pascal == null) buildPascals(10000,15);
+        long res=0;
+        N = n; MAXVAL = maxValue;
+        long [][]dp = new long[maxValue+1][16];
+        for(int i=1; i<=maxValue; i++){
+            res += idealArraysRec(i, 0, dp)%MOD;
+            res %= MOD;
+        }
+        return (int)res;
+    }
+
+    private long idealArraysRec(int curr, int n, long [][]dp){
+        if(dp[curr][n] != 0) return dp[curr][n];
+        long res = 0;
+        for(int l=2*curr; l<=MAXVAL; l+=curr){
+            res += (idealArraysRec(l, n+1, dp)%MOD);
+            res %= MOD;
+        }
+        res += nCk(N-1, n);
+        res %= MOD;
+        dp[curr][n] = res;
+        return res;
+    }
+
     public static void main(String[] args) {
         Solution s = new Solution();
-        System.out.println(s.idealArrays(2, 5));
+//        System.out.println(s.idealArrays(2, 5));
         System.out.println(s.idealArrays(5, 5));
         System.out.println(s.idealArrays(184, 389));
     }
