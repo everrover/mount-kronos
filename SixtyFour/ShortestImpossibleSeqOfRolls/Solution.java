@@ -13,8 +13,11 @@ package SixtyFour.ShortestImpossibleSeqOfRolls;
  * Again, [0...j] will always have atleast one missed roll seq of length `3` and greater. And cycle repeats...
  *
  * Proof of missed roll sequences:
- * For [0...i] the last element added will be unique in the sub-array. It can never pair up with any other element in the
- * sub-array to create a roll seq of length `2`. For [i+1...j] the jth element will be unique in the sub-array. Won't work.
+ * For N sets, we have N unique values in each set(last element within each set). If we were to take them into a sequence roll,
+ * we would never be able to create a roll seq of length >N. Hence, atleast one missed roll seq of length >N will be there
+ * for N such subarrays.
+ *
+ * TC: O(n) MC: O(K)
  *
  * https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/discuss/2322280/JavaC%2B%2BPython-One-Pass-O(K)-Space
  */
