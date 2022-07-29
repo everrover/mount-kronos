@@ -2,44 +2,53 @@
 
 ## DSA x256 list
 
-| Number | Name                                                                                                                                        | Tags                                                             |
-|--------|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-| 235    | [Lowest Common Ancestor of a Binary Search Tree](./FirstThreeTwo/LCA/Solution.java)                                                         | **#easy #binary-tree**                                           |
-| 315    | [Count of Smaller Numbers After Self](./FirstThreeTwo/CountOfSmallerElementsAfterSelf/sol.md)                                               |                                                                  |    
-| 354    | [354. Russian Doll Envelopes](./FirstThreeTwo/RussianDollEnvelopes/Solution.java)                                                           |                                                                  |
-| 518    | [Counting Coins II](./FirstThreeTwo/CountingcCoins_II/sol.md)                                                                               | **#simulation #dynamic-programming**                             |    
-| 740    | [Delete and Earn](./FirstThreeTwo/DeleteAndEarn/sol.md)                                                                                     |                                                                  |    
-| 743    | [Network Delay Time](./SixtyFour/NetworkDelayTime.java)                                                                                     | **#dijkstras-algorithm**                                         |
-| 799    | [Champagne Tower](./FirstThreeTwo/ChampagneTower/sol.md)                                                                                    |                                                                  |    
-| 877    | [Stone Game](./FirstThreeTwo/StoneGame/sol.md)                                                                                              | **#dynamic-programming #game-theory #greedy #math**              |    
-| 1192   | Connections in a Network - [Articulation points](./FirstThreeTwo/ArticulationPoints/sol.md)                                                 | **#dynamic-programming #graph-theory #cycle-detection**          |
-| 1202   | [Smallest String With Swaps](./FirstThreeTwo/SmallestStringWithSwaps/sol.md)                                                                |                                                                  |   
-| 1514   | [Path with Maximum Probability](./FirstThreeTwo/PathWithMaxProbability/sol.md)                                                              | **#dijkstras-algorithm**                                         |
-| 1534   | [Count Good Triplets](./FirstThreeTwo/CountGoodTriplets/Solution.java)                                                                      |                                                                  |   
-| 1547   | [Minimum Cost to Cut a Stick](./FirstThreeTwo/MinimumCostToCutStick/sol.md)                                                                 |                                                                  |   
-| 1685   | [Sum of Absolute Differences in a Sorted Array](./FirstThreeTwo/SumOfAbsoluteDiffInSortedArrays/sol.md)                                     | **#math**                                                        |
-| 1722   | [Minimise Hamming Distance](./FirstThreeTwo/MinimiseHammingDistance/Solution.java)                                                          | **#graphs #math-and-logic #strongly-connected-components #dfs**  |
-| 1735   | [Count Ways to Make Array With Product](./SixtyFour/CountWaysToMakeArrayWithProduct.java)                                                   | **#sieve-eratosthenes #combinatorics #math #dp #tricky**         |   
-| 1737   | [Change Minimum Characters to Satisfy One of Three Conditions](./FirstThreeTwo/ChangeMinimumCharactersToSatisfyOneOfThreeConditions/sol.md) |                                                                  |   
-| 2076   | [Process Restricted Friend Requests](./FirstThreeTwo/ProcessRestrictedFriendRequests/sol.md)                                                |                                                                  |   
-| 2218   | [Maximum Value of K Coins From Piles](./FirstThreeTwo/MaximumValueOfKCoinsFromPiles/sol.md)                                                 |                                                                  |   
-| 2295   | [Replace Elements in an Array](./FirstThreeTwo/ReplaceElementsInAnArray/sol.md)                                                             |                                                                  |   
-| 2316   | [Count Unreachable Pairs of Nodes in an Undirected Graph](./FirstThreeTwo/CountUnreachablePairsOfNodesInUDGraph/sol.md)                     | **#graphs #dfs #bfs #scc**                                       |
-| 2318   | [Number of Distinct Roll Sequences](./FirstThreeTwo/NumberOfDistinctRollSeq/sol.md)                                                         | **#backtracking #dynamic-programming**                           |
-| 2322   | [Minimum Score After Removals on a Tree](./FirstThreeTwo/MinScoreAfterRemovalsOnTree/sol.md)                                                | **#trees #graph-theory #dynamic-programming #tricky**            |
-| 2320   | [Count Number of Ways to Place Houses](./FirstThreeTwo/CountNumberWaysToPlaceHouses/sol.md)                                                 |                                                                  |
-| 2321   | [Maximum Score Of Spliced Array](./FirstThreeTwo/MaxScoreOfSplicedArray/sol.md)                                                             |                                                                  |
-| 2388   | [Count the Number of Ideal Arrays](./SixtyFour/CountIdealArrays/sol.md)                                                                     | **#combinatorics #dynamic-programming #tricky #hard**            |
-| 2347   | [Best Poker Hand](./SixtyFour/BestPokerHand.java)                                                                                           | **#easy**                                                        |
-| 2348   | [Number of Zero-Filled Subarrays](./SixtyFour/ZeroFilledSubArrays/Solution.java)                                                            | **#combinatorics**                                               |
-| 2349   | [Design a Number Container System](./SixtyFour/NumberContainerSystem/NumberContainers.java)                                                 | **#maps #sets #bst #augmented-data-str**                         |
-| 2350   | [Shortest Impossible Sequence of Rolls](./SixtyFour/ShortestImpossibleSeqOfRolls/Solution.java)                                             | **#maps #sets #bst #augmented-data-str**                         |
-| MSOA   | [Contiguous Subarray Count with Arithmetic Mean](./SixtyFour/MicrosoftOA/ques.md)                                                           | **#maths #dynamic-programming #tricky**                          |
-| MSOA   | [Build max-sized array with constraints](./SixtyFour/MicrosoftOA/ques.md)                                                                   | **#smart-enumeration #backtracking #on-constraint-switch #heap** |
-| Unk    | [Bellman Ford algorithm](./FirstThreeTwo/BellmanFord/sol.md)                                                                                | **#graph-theory #dynamic-programming**                           |
-| Unk    | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                           |
+| Number  | Name                                                                                                                                        | Tags                                                             |
+|---------|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| 235     | [Lowest Common Ancestor of a Binary Search Tree](./FirstThreeTwo/LCA/Solution.java)                                                         | **#easy #binary-tree**                                           |
+| 315     | [Count of Smaller Numbers After Self](./FirstThreeTwo/CountOfSmallerElementsAfterSelf/sol.md)                                               |                                                                  |    
+| 354     | [354. Russian Doll Envelopes](./FirstThreeTwo/RussianDollEnvelopes/Solution.java)                                                           |                                                                  |
+| 518     | [Counting Coins II](./FirstThreeTwo/CountingcCoins_II/sol.md)                                                                               | **#simulation #dynamic-programming**                             |    
+| 740     | [Delete and Earn](./FirstThreeTwo/DeleteAndEarn/sol.md)                                                                                     |                                                                  |    
+| 743     | [Network Delay Time](./SixtyFour/NetworkDelayTime.java)                                                                                     | **#dijkstras-algorithm**                                         |
+| 799     | [Champagne Tower](./FirstThreeTwo/ChampagneTower/sol.md)                                                                                    |                                                                  |    
+| 877     | [Stone Game](./FirstThreeTwo/StoneGame/sol.md)                                                                                              | **#dynamic-programming #game-theory #greedy #math**              |    
+| 1192    | Connections in a Network - [Articulation points](./FirstThreeTwo/ArticulationPoints/sol.md)                                                 | **#dynamic-programming #graph-theory #cycle-detection**          |
+| 1202    | [Smallest String With Swaps](./FirstThreeTwo/SmallestStringWithSwaps/sol.md)                                                                |                                                                  |   
+| 1514    | [Path with Maximum Probability](./FirstThreeTwo/PathWithMaxProbability/sol.md)                                                              | **#dijkstras-algorithm**                                         |
+| 1534    | [Count Good Triplets](./FirstThreeTwo/CountGoodTriplets/Solution.java)                                                                      |                                                                  |   
+| 1547    | [Minimum Cost to Cut a Stick](./FirstThreeTwo/MinimumCostToCutStick/sol.md)                                                                 |                                                                  |   
+| 1685    | [Sum of Absolute Differences in a Sorted Array](./FirstThreeTwo/SumOfAbsoluteDiffInSortedArrays/sol.md)                                     | **#math**                                                        |
+| 1722    | [Minimise Hamming Distance](./FirstThreeTwo/MinimiseHammingDistance/Solution.java)                                                          | **#graphs #math-and-logic #strongly-connected-components #dfs**  |
+| 1735    | [Count Ways to Make Array With Product](./SixtyFour/CountWaysToMakeArrayWithProduct.java)                                                   | **#sieve-eratosthenes #combinatorics #math #dp #tricky**         |   
+| 1737    | [Change Minimum Characters to Satisfy One of Three Conditions](./FirstThreeTwo/ChangeMinimumCharactersToSatisfyOneOfThreeConditions/sol.md) |                                                                  |   
+| 2076    | [Process Restricted Friend Requests](./FirstThreeTwo/ProcessRestrictedFriendRequests/sol.md)                                                |                                                                  |   
+| 2218    | [Maximum Value of K Coins From Piles](./FirstThreeTwo/MaximumValueOfKCoinsFromPiles/sol.md)                                                 |                                                                  |   
+| 2295    | [Replace Elements in an Array](./FirstThreeTwo/ReplaceElementsInAnArray/sol.md)                                                             |                                                                  |   
+| 2316    | [Count Unreachable Pairs of Nodes in an Undirected Graph](./FirstThreeTwo/CountUnreachablePairsOfNodesInUDGraph/sol.md)                     | **#graphs #dfs #bfs #scc**                                       |
+| 2318    | [Number of Distinct Roll Sequences](./FirstThreeTwo/NumberOfDistinctRollSeq/sol.md)                                                         | **#backtracking #dynamic-programming**                           |
+| 2322    | [Minimum Score After Removals on a Tree](./FirstThreeTwo/MinScoreAfterRemovalsOnTree/sol.md)                                                | **#trees #graph-theory #dynamic-programming #tricky**            |
+| 2320    | [Count Number of Ways to Place Houses](./FirstThreeTwo/CountNumberWaysToPlaceHouses/sol.md)                                                 |                                                                  |
+| 2321    | [Maximum Score Of Spliced Array](./FirstThreeTwo/MaxScoreOfSplicedArray/sol.md)                                                             |                                                                  |
+| 2388    | [Count the Number of Ideal Arrays](./SixtyFour/CountIdealArrays/sol.md)                                                                     | **#combinatorics #dynamic-programming #tricky #hard**            |
+| 2347    | [Best Poker Hand](./SixtyFour/BestPokerHand.java)                                                                                           | **#easy**                                                        |
+| 2348    | [Number of Zero-Filled Subarrays](./SixtyFour/ZeroFilledSubArrays/Solution.java)                                                            | **#combinatorics**                                               |
+| 2349    | [Design a Number Container System](./SixtyFour/NumberContainerSystem/NumberContainers.java)                                                 | **#maps #sets #bst #augmented-data-str**                         |
+| 2350    | [Shortest Impossible Sequence of Rolls](./SixtyFour/ShortestImpossibleSeqOfRolls/Solution.java)                                             | **#maps #sets #bst #augmented-data-str**                         |
+| MSOA    | [Contiguous Subarray Count with Arithmetic Mean](./SixtyFour/MicrosoftOA/ques.md)                                                           | **#maths #dynamic-programming #tricky**                          |
+| MSOA    | [Build max-sized array with constraints](./SixtyFour/MicrosoftOA/ques.md)                                                                   | **#smart-enumeration #backtracking #on-constraint-switch #heap** |
+| Uber OA | [Subsequence of `a` in copies of `b`](./SixtyFour/UberOA1/ques.md)                                                                          |                                                                  |
+| Uber OA | [Farmer John](./SixtyFour/UberOA1/ques.md)                                                                                                  |                                                                  |
+| Uber OA | [Farmer John](./SixtyFour/UberOA1/ques.md)                                                                                                  |                                                                  |
+| Uber OA | [Farmer John](./SixtyFour/UberOA1/ques.md)                                                                                                  |                                                                  |
+| Uber OA | [Farmer John](./SixtyFour/UberOA1/ques.md)                                                                                                  |                                                                  |
+| Uber OA | [Farmer John](./SixtyFour/UberOA1/ques.md)                                                                                                  |                                                                  |
+| Uber OA | [Farmer John](./SixtyFour/UberOA1/ques.md)                                                                                                  |                                                                  |
+| Uber OA | [Farmer John](./SixtyFour/UberOA1/ques.md)                                                                                                  |                                                                  |
+| Uber OA | [Farmer John](./SixtyFour/UberOA1/ques.md)                                                                                                  |                                                                  |
+| Unk     | [Bellman Ford algorithm](./FirstThreeTwo/BellmanFord/sol.md)                                                                                | **#graph-theory #dynamic-programming**                           |
+| Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                           |
 
-Unlisted: 5
+Unlisted: 16    
 Total: 40/256
 
 P.S I don't ount `easy` questions in above count.
