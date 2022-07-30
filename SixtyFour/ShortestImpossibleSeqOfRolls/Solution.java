@@ -14,7 +14,7 @@ package SixtyFour.ShortestImpossibleSeqOfRolls;
  *
  * Proof of missed roll sequences:
  * For N sets, we have N unique values in each set(last element within each set). If we were to take them into a sequence roll,
- * we would never be able to create a roll seq of length >N. Hence, atleast one missed roll seq of length >N will be there
+ * we would never be able to create a roll seq of length >N for all numbers. Hence, atleast one missed roll seq of length >N will be there
  * for N such subarrays.
  *
  * TC: O(n) MC: O(K)
