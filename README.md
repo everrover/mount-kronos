@@ -17,6 +17,7 @@
 | 1514    | [Path with Maximum Probability](./FirstThreeTwo/PathWithMaxProbability/sol.md)                                                              | **#dijkstras-algorithm**                                         |
 | 1534    | [Count Good Triplets](./FirstThreeTwo/CountGoodTriplets/Solution.java)                                                                      |                                                                  |   
 | 1547    | [Minimum Cost to Cut a Stick](./FirstThreeTwo/MinimumCostToCutStick/sol.md)                                                                 |                                                                  |   
+| 1578    | [Minimum Time to Make Rope Colorful](./SixtyFour/MinimumTimeToMakeRopeColorful.java)                                                        | **#greedy #math #simple**                                        |
 | 1685    | [Sum of Absolute Differences in a Sorted Array](./FirstThreeTwo/SumOfAbsoluteDiffInSortedArrays/sol.md)                                     | **#math**                                                        |
 | 1722    | [Minimise Hamming Distance](./FirstThreeTwo/MinimiseHammingDistance/Solution.java)                                                          | **#graphs #math-and-logic #strongly-connected-components #dfs**  |
 | 1735    | [Count Ways to Make Array With Product](./SixtyFour/CountWaysToMakeArrayWithProduct.java)                                                   | **#sieve-eratosthenes #combinatorics #math #dp #tricky**         |   
