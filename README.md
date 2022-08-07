@@ -24,6 +24,7 @@
 | 1737    | [Change Minimum Characters to Satisfy One of Three Conditions](./FirstThreeTwo/ChangeMinimumCharactersToSatisfyOneOfThreeConditions/sol.md) |                                                                  |   
 | 2076    | [Process Restricted Friend Requests](./FirstThreeTwo/ProcessRestrictedFriendRequests/sol.md)                                                |                                                                  |   
 | 2218    | [Maximum Value of K Coins From Piles](./FirstThreeTwo/MaximumValueOfKCoinsFromPiles/sol.md)                                                 |                                                                  |   
+| 2271    | [Maximum White Tiles Covered by a Carpet](./SixtyFour/MaxWhiteTilesCoveredByCarpet.java)                                                    | **#tricky #banged-head-in-the-wall-for-it #critical-edge-case**  |
 | 2295    | [Replace Elements in an Array](./FirstThreeTwo/ReplaceElementsInAnArray/sol.md)                                                             |                                                                  |   
 | 2316    | [Count Unreachable Pairs of Nodes in an Undirected Graph](./FirstThreeTwo/CountUnreachablePairsOfNodesInUDGraph/sol.md)                     | **#graphs #dfs #bfs #scc**                                       |
 | 2318    | [Number of Distinct Roll Sequences](./FirstThreeTwo/NumberOfDistinctRollSeq/sol.md)                                                         | **#backtracking #dynamic-programming**                           |
@@ -50,9 +51,9 @@
 | Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                           |
 
 Unlisted: 16    
-Total: 40/256
+Total: 43/256
 
-P.S I don't ount `easy` questions in above count.
+P.S I don't count `easy` questions in above count.
 
 ### Backlog list
 
