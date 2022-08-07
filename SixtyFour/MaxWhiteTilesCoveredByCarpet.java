@@ -5,8 +5,16 @@ import java.util.Arrays;
 public class MaxWhiteTilesCoveredByCarpet {
     /**
      * https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/
+     * MC: O(n) TC: O(n*ln(n))
+     * For each tile, we calculate reach of carpet anc calculate covered tiles.
+     * We greedily choose the start of a tile to be the one which'll cause the maximum reach.
+     * Diagramatically(in notebook), saw that this approach will produce the maximum number of tiles covered.
      */
     private int binarySearch(int [][]tiles, int l, int r, int val){
+        /**
+         * Calculate the farthest tile that can be completely covered by the carpet(starting at tiles[i][0])
+         * ending at `val=tiles[l][0]+carpetLen-1`
+         */
         int pivot = -1;
         while(l<=r){
             int mid = (l+r)/2;
@@ -30,8 +38,8 @@ public class MaxWhiteTilesCoveredByCarpet {
         }
         for(int i=0; i<tiles.length; i++){
             if(tiles[i][1]-tiles[i][0]+1 >= carpetLen){ return carpetLen; }
-            // tile[1]...r range
             int carpetReach = tiles[i][0]+carpetLen-1;
+            // tile[i]...tile[r] range
             int r = binarySearch(tiles, i, tiles.length-1, carpetReach);
             int count = (int)(prefix[r]-(i>0?prefix[i-1]:0));
             if(r<(tiles.length-1) && carpetReach>=tiles[r+1][0]){
