@@ -36,6 +36,7 @@
 | 2348    | [Number of Zero-Filled Subarrays](./SixtyFour/ZeroFilledSubArrays/Solution.java)                                                            | **#combinatorics**                                               |
 | 2349    | [Design a Number Container System](./SixtyFour/NumberContainerSystem/NumberContainers.java)                                                 | **#maps #sets #bst #augmented-data-str**                         |
 | 2350    | [Shortest Impossible Sequence of Rolls](./SixtyFour/ShortestImpossibleSeqOfRolls/Solution.java)                                             | **#maps #sets #bst #augmented-data-str**                         |
+| 2402    | [Meeting Rooms III](./SixtyFour/MeetingRooms3.java)                                                                                         | **#heaps #hard #tricky-impl**                                    |
 | MSOA    | [Contiguous Subarray Count with Arithmetic Mean](./SixtyFour/MicrosoftOA/ques.md)                                                           | **#maths #dynamic-programming #tricky**                          |
 | MSOA    | [Build max-sized array with constraints](./SixtyFour/MicrosoftOA/ques.md)                                                                   | **#smart-enumeration #backtracking #on-constraint-switch #heap** |
 | Uber OA | [Subsequence of `a` in copies of `b`](./SixtyFour/UberOA1/ques.md)                                                                          |                                                                  |
