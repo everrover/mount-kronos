@@ -52,7 +52,7 @@
 | Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                           |
 
 Unlisted: 16    
-Total: 43/256
+Total: 45/256
 
 P.S I don't count `easy` questions in above count.
 
