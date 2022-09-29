@@ -25,6 +25,7 @@
 | 1735    | [Count Ways to Make Array With Product](./SixtyFour/CountWaysToMakeArrayWithProduct.java)                                                   | **#sieve-eratosthenes #combinatorics #math #dp #tricky**         |   
 | 1737    | [Change Minimum Characters to Satisfy One of Three Conditions](./FirstThreeTwo/ChangeMinimumCharactersToSatisfyOneOfThreeConditions/sol.md) |                                                                  |   
 | 2076    | [Process Restricted Friend Requests](./FirstThreeTwo/ProcessRestrictedFriendRequests/sol.md)                                                |                                                                  |   
+| 2127    | [Maximum Employees to Be Invited to a Meeting](./SixtyFour/MinimumEmpToBInvitedToMeeting/sol.md)                                            | **#dfs #cycle-detection #tricky #ques-specific-approximation**   |   
 | 2218    | [Maximum Value of K Coins From Piles](./FirstThreeTwo/MaximumValueOfKCoinsFromPiles/sol.md)                                                 |                                                                  |   
 | 2271    | [Maximum White Tiles Covered by a Carpet](./SixtyFour/MaxWhiteTilesCoveredByCarpet.java)                                                    | **#tricky #banged-head-in-the-wall-for-it #critical-edge-case**  |
 | 2295    | [Replace Elements in an Array](./FirstThreeTwo/ReplaceElementsInAnArray/sol.md)                                                             |                                                                  |   
@@ -239,6 +240,8 @@ P.S I don't count `easy` questions in above count.
 - https://leetcode.com/problems/reorganize-string/
 - https://leetcode.com/problems/minimum-number-of-frogs-croaking/
 - https://leetcode.com/problems/meeting-rooms-ii/
+- https://leetcode.com/problems/redundant-connection/
+- https://leetcode.com/problems/parallel-courses-iii/
 
 ## _Dynamic programming_
 
