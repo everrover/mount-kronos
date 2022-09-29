@@ -38,6 +38,7 @@
 | 2350    | [Shortest Impossible Sequence of Rolls](./SixtyFour/ShortestImpossibleSeqOfRolls/Solution.java)                                             | **#maps #sets #bst #augmented-data-str**                         |
 | 2400    | [Number of Ways to Reach a Position After Exactly k Steps](./SixtyFour/NumberOfWaysToReachAPositionAfterExactlyKSteps/Solution.java)        | **#dynaic-programming #math #combinatorics**                     |
 | 2402    | [Meeting Rooms III](./SixtyFour/MeetingRooms3.java)                                                                                         | **#heaps #hard #tricky-impl**                                    |
+| 2406    | [Divide Intervals Into Minimum Number of Groups](./SixtyFour/DivideIntervalsIntoMinimumGroups/Solution.java)                                | **#heaps #meeting-rooms #line-sweep**                            |
 | MSOA    | [Contiguous Subarray Count with Arithmetic Mean](./SixtyFour/MicrosoftOA/ques.md)                                                           | **#maths #dynamic-programming #tricky**                          |
 | MSOA    | [Build max-sized array with constraints](./SixtyFour/MicrosoftOA/ques.md)                                                                   | **#smart-enumeration #backtracking #on-constraint-switch #heap** |
 | Uber OA | [Subsequence of `a` in copies of `b`](./SixtyFour/UberOA1/ques.md)                                                                          |                                                                  |
@@ -234,6 +235,8 @@ P.S I don't count `easy` questions in above count.
 - https://leetcode.com/problems/expression-add-operators/
 - https://leetcode.com/problems/substring-with-largest-variance/
 - https://leetcode.com/problems/reorganize-string/
+- https://leetcode.com/problems/minimum-number-of-frogs-croaking/
+- https://leetcode.com/problems/meeting-rooms-ii/
 
 ## _Dynamic programming_
 
