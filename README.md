@@ -11,6 +11,7 @@
 | 740     | [Delete and Earn](./FirstThreeTwo/DeleteAndEarn/sol.md)                                                                                     |                                                                  |    
 | 743     | [Network Delay Time](./SixtyFour/NetworkDelayTime.java)                                                                                     | **#dijkstras-algorithm**                                         |
 | 799     | [Champagne Tower](./FirstThreeTwo/ChampagneTower/sol.md)                                                                                    |                                                                  |    
+| 838     | [Push dominoes](./SixtyFour/PushDominos.java)                                                                                               | **#implmentation**                                               |    
 | 841     | [Keys and rooms](./SixtyFour/KeysAndRooms.java)                                                                                             | **#dfs**                                                         |    
 | 877     | [Stone Game](./FirstThreeTwo/StoneGame/sol.md)                                                                                              | **#dynamic-programming #game-theory #greedy #math**              |    
 | 1192    | Connections in a Network - [Articulation points](./FirstThreeTwo/ArticulationPoints/sol.md)                                                 | **#dynamic-programming #graph-theory #cycle-detection**          |
