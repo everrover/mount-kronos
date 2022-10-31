@@ -7,7 +7,8 @@
 | 235     | [Lowest Common Ancestor of a Binary Search Tree](./FirstThreeTwo/LCA/Solution.java)                                                         | **#easy #binary-tree**                                           |
 | 315     | [Count of Smaller Numbers After Self](./FirstThreeTwo/CountOfSmallerElementsAfterSelf/sol.md)                                               |                                                                  |    
 | 354     | [354. Russian Doll Envelopes](./FirstThreeTwo/RussianDollEnvelopes/Solution.java)                                                           |                                                                  |
-| 518     | [Counting Coins II](./FirstThreeTwo/CountingcCoins_II/sol.md)                                                                               | **#simulation #dynamic-programming**                             |    
+| 518     | [Counting Coins II](./FirstThreeTwo/CountingcCoins_II/sol.md)                                                                               | **#prefix-sum #hash-tables**                                     |    
+| 560     | [Subarray Sum Equals K](./SixtyFour/SubarraySumEqualsK.java)                                                                                | **#simulation #dynamic-programming**                             |    
 | 740     | [Delete and Earn](./FirstThreeTwo/DeleteAndEarn/sol.md)                                                                                     |                                                                  |    
 | 743     | [Network Delay Time](./SixtyFour/NetworkDelayTime.java)                                                                                     | **#dijkstras-algorithm**                                         |
 | 799     | [Champagne Tower](./FirstThreeTwo/ChampagneTower/sol.md)                                                                                    |                                                                  |    
@@ -54,6 +55,8 @@
 | Uber OA | [Farmer John](./SixtyFour/UberOA1/ques.md)                                                                                                  |                                                                  |
 | Uber OA | [Farmer John](./SixtyFour/UberOA1/ques.md)                                                                                                  |                                                                  |
 | Unk     | [Bellman Ford algorithm](./FirstThreeTwo/BellmanFord/sol.md)                                                                                | **#graph-theory #dynamic-programming**                           |
+| Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                           |
+| Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                           |
 | Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                           |
 
 Unlisted: 16    
