@@ -2,6 +2,8 @@
 *.class
 ./out/*
 out
+.idea
+mount-kronos.iml
 # Log file
 *.log
 
