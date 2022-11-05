@@ -26,7 +26,7 @@ public class MostPopularVideoCreator {
           this.id = id;
         }
       }
-    }
+    } 
     public List<List<String>> mostPopularCreator(String[] creators, String[] ids, int[] views) {
       List<List<String>> res = new ArrayList<>();
       Map<String, O> creatorViews = new HashMap<>();

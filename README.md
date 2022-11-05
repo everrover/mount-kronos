@@ -44,6 +44,7 @@
 | 2402    | [Meeting Rooms III](./SixtyFour/MeetingRooms3.java)                                                                                         | **#heaps #hard #tricky-impl**                                    |
 | 2406    | [Divide Intervals Into Minimum Number of Groups](./SixtyFour/DivideIntervalsIntoMinimumGroups/Solution.java)                                | **#heaps #meeting-rooms #line-sweep**                            |
 | 2456    | [Most Popular Video Creator](./SixtyFour/MostPopularVideoCreator.java)                                                                      | **#heaps #maps #java-implementation #sorting**                   |
+| 2458    | [Height of Binary Tree After Subtree Removal Queries](./SixtyFour/HtOfBinTreeAfterSubtreeRemovalQueries.java)                               | **#DFS #bfs #binary-tree #tricky #best-and-2nd-best**            |
 | MSOA    | [Contiguous Subarray Count with Arithmetic Mean](./SixtyFour/MicrosoftOA/ques.md)                                                           | **#maths #dynamic-programming #tricky**                          |
 | MSOA    | [Build max-sized array with constraints](./SixtyFour/MicrosoftOA/ques.md)                                                                   | **#smart-enumeration #backtracking #on-constraint-switch #heap** |
 | Uber OA | [Subsequence of `a` in copies of `b`](./SixtyFour/UberOA1/ques.md)                                                                          |                                                                  |
