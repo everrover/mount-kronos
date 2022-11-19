@@ -4,6 +4,7 @@
 
 | Number  | Name                                                                                                                                        | Tags                                                             |
 |---------|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| 207     | [Course Schedule](./SixtyFour/CourseSchedule.java)                                                                                          | **#easy #dfs #graphs #cycle-detection**                          |
 | 235     | [Lowest Common Ancestor of a Binary Search Tree](./FirstThreeTwo/LCA/Solution.java)                                                         | **#easy #binary-tree**                                           |
 | 315     | [Count of Smaller Numbers After Self](./FirstThreeTwo/CountOfSmallerElementsAfterSelf/sol.md)                                               |                                                                  |    
 | 354     | [354. Russian Doll Envelopes](./FirstThreeTwo/RussianDollEnvelopes/Solution.java)                                                           |                                                                  |
@@ -35,9 +36,10 @@
 | 2322    | [Minimum Score After Removals on a Tree](./FirstThreeTwo/MinScoreAfterRemovalsOnTree/sol.md)                                                | **#trees #graph-theory #dynamic-programming #tricky**            |
 | 2320    | [Count Number of Ways to Place Houses](./FirstThreeTwo/CountNumberWaysToPlaceHouses/sol.md)                                                 |                                                                  |
 | 2321    | [Maximum Score Of Spliced Array](./FirstThreeTwo/MaxScoreOfSplicedArray/sol.md)                                                             |                                                                  |
-| 2388    | [Count the Number of Ideal Arrays](./SixtyFour/CountIdealArrays/sol.md)                                                                     | **#combinatorics #dynamic-programming #tricky #hard**            |
+| 2338    | [Count the Number of Ideal Arrays](./SixtyFour/CountIdealArrays/sol.md)                                                                     | **#combinatorics #dynamic-programming #tricky #hard**            |
 | 2347    | [Best Poker Hand](./SixtyFour/BestPokerHand.java)                                                                                           | **#easy**                                                        |
 | 2348    | [Number of Zero-Filled Subarrays](./SixtyFour/ZeroFilledSubArrays/Solution.java)                                                            | **#combinatorics**                                               |
+| 2353    | [Design a Food Rating System](./SixtyFour/DesignFoodRatingSystem.java)                                                                      | **#lld #crude-impl #hashmaps #bst #heap**                        |
 | 2349    | [Design a Number Container System](./SixtyFour/NumberContainerSystem/NumberContainers.java)                                                 | **#maps #sets #bst #augmented-data-str**                         |
 | 2350    | [Shortest Impossible Sequence of Rolls](./SixtyFour/ShortestImpossibleSeqOfRolls/Solution.java)                                             | **#maps #sets #bst #augmented-data-str**                         |
 | 2400    | [Number of Ways to Reach a Position After Exactly k Steps](./SixtyFour/NumberOfWaysToReachAPositionAfterExactlyKSteps/Solution.java)        | **#dynaic-programming #math #combinatorics**                     |
@@ -62,7 +64,7 @@
 | Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                           |
 
 Unlisted: 16    
-Total: 45/256
+Total: 59/256
 
 P.S I don't count `easy` questions in above count.
 
