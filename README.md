@@ -4,6 +4,7 @@
 
 | Number  | Name                                                                                                                                        | Tags                                                             |
 |---------|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| 84      | [Largest rectangle in histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)                                             | **#🙅🏻‍♀ #monotonic-stack #dynamic-programming #stack**         |
 | 207     | [Course Schedule](./SixtyFour/CourseSchedule.java)                                                                                          | **#easy #dfs #graphs #cycle-detection**                          |
 | 235     | [Lowest Common Ancestor of a Binary Search Tree](./FirstThreeTwo/LCA/Solution.java)                                                         | **#easy #binary-tree**                                           |
 | 315     | [Count of Smaller Numbers After Self](./FirstThreeTwo/CountOfSmallerElementsAfterSelf/sol.md)                                               |                                                                  |    
@@ -64,7 +65,7 @@
 | Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                           |
 
 Unlisted: 16    
-Total: 59/256
+Total: 60/256
 
 P.S I don't count `easy` questions in above count.
 
