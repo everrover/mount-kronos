@@ -40,6 +40,24 @@ public class Solution {
     }
     return res;
   }
+  // try finding leftmost and rightmost index for each `curr` element where `curr` is minimum across [left...right]
+  // approach never works in linear complexity. STree or Fenwick trees or sth ~ or unknown to me are needed. Example: [2,1,2], [4,2,0,3,2,4,3,4]
+  public int largestRectangleAreaLeftRight(int[] heights) {
+    if(heights == null || heights.length == 0) return 0;
+    int res = 0;
+    int []left = new int[heights.length];
+    int []right = new int[heights.length]; right[heights.length-1]=heights.length-1;
+    for (int i = 1; i < heights.length; i++) {
+      left[i] = heights[i]>heights[left[i-1]]?i:left[i-1];
+    }
+    for (int i =heights.length-2; i >= 0; i--) {
+      right[i] = heights[i]>heights[right[i+1]]?i:right[i+1];
+    }
+    for(int i=0; i<heights.length; i++){
+      res = Math.max(res, heights[i]*(right[i]-left[i]+1));
+    }
+    return res;
+  }
 
   public static void main(String[] args) {
 
