@@ -62,10 +62,20 @@
 Unlisted: 16    
 Total: 60/256
 
-P.S I don't count `easy` questions in above count.
+P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
 ### Backlog list
 
+- https://leetcode.com/problems/cat-and-mouse-ii/
+
+- https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/submissions/
+- https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
+- https://leetcode.com/problems/design-video-sharing-platform/
+- https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/
+- https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/
+- https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/
+- https://leetcode.com/problems/count-submatrices-with-all-ones/
+- https://leetcode.com/problems/find-the-most-competitive-subsequence/
 - https://leetcode.com/discuss/interview-question/2271498/google-oa-2022-count-pairs-problem-solved
 - https://leetcode.com/problems/count-ways-to-make-array-with-product/
 - https://leetcode.com/problems/beautiful-arrangement/
