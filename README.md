@@ -14,6 +14,7 @@
 | 560     | [Subarray Sum Equals K](./SixtyFour/SubarraySumEqualsK.java)                                                                                | **#simulation #dynamic-programming**                                                                       |    
 | 740     | [Delete and Earn](./FirstThreeTwo/DeleteAndEarn/sol.md)                                                                                     |                                                                                                            |    
 | 743     | [Network Delay Time](./SixtyFour/NetworkDelayTime.java)                                                                                     | **#dijkstras-algorithm**                                                                                   |
+| 789     | [Escape the ghosts](./SixtyFour/PacmanEscapesTheGhost.java)                                                                                 | **#math #easy**                                                                                          |
 | 799     | [Champagne Tower](./FirstThreeTwo/ChampagneTower/sol.md)                                                                                    |                                                                                                            |    
 | 838     | [Push dominoes](./SixtyFour/PushDominos.java)                                                                                               | **#implmentation**                                                                                         |    
 | 841     | [Keys and rooms](./SixtyFour/KeysAndRooms.java)                                                                                             | **#dfs**                                                                                                   |    
@@ -26,7 +27,7 @@
 | 1578    | [Minimum Time to Make Rope Colorful](./SixtyFour/MinimumTimeToMakeRopeColorful.java)                                                        | **#greedy #math #simple**                                                                                  |
 | 1685    | [Sum of Absolute Differences in a Sorted Array](./FirstThreeTwo/SumOfAbsoluteDiffInSortedArrays/sol.md)                                     | **#math**                                                                                                  |
 | 1722    | [Minimise Hamming Distance](./FirstThreeTwo/MinimiseHammingDistance/Solution.java)                                                          | **#graphs #math-and-logic #strongly-connected-components #dfs**                                            |
-| 1728    | [Cat and mouse II](./FirstThreeTwo/CatAndMouseII.java)                                                                             | **#graphs #dfs #dp #memoiation #game-theory #trick #dfs-no-visit-track #dfs**                              |
+| 1728    | [Cat and mouse II](./FirstThreeTwo/CatAndMouseII.java)                                                                                      | **#graphs #dfs #dp #memoiation #game-theory #trick #dfs-no-visit-track #dfs**                              |
 | 1735    | [Count Ways to Make Array With Product](./SixtyFour/CountWaysToMakeArrayWithProduct.java)                                                   | **#sieve-eratosthenes #combinatorics #math #dp #tricky**                                                   |   
 | 1737    | [Change Minimum Characters to Satisfy One of Three Conditions](./FirstThreeTwo/ChangeMinimumCharactersToSatisfyOneOfThreeConditions/sol.md) |                                                                                                            |   
 | 1793    | [Maximum Score of a Good Subarray](./SixtyFour/MaximumScoreOfGoodSubarray.java)                                                             | **#greedy #two-pointer #ranged-two-pointer #based-on-others #monotonic-stack #dynamic-programming #stack** |
@@ -61,15 +62,16 @@
 | Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                     |
 
 Unlisted: 16    
-Total: 61/256
+Total: 63/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
 ### Backlog list
 
-- https://leetcode.com/problems/cat-and-mouse-ii/
-- https://leetcode.com/problems/cat-and-mouse/
+- https://leetcode.com/problems/cat-and-mouse/ 
 
+- https://leetcode.com/problems/car-fleet-ii/
+- https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/
 - https://leetcode.com/problems/next-greater-element-iv/
 - https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/submissions/
 - https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
