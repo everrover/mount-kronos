@@ -26,6 +26,7 @@
 | 1578    | [Minimum Time to Make Rope Colorful](./SixtyFour/MinimumTimeToMakeRopeColorful.java)                                                        | **#greedy #math #simple**                                                                                  |
 | 1685    | [Sum of Absolute Differences in a Sorted Array](./FirstThreeTwo/SumOfAbsoluteDiffInSortedArrays/sol.md)                                     | **#math**                                                                                                  |
 | 1722    | [Minimise Hamming Distance](./FirstThreeTwo/MinimiseHammingDistance/Solution.java)                                                          | **#graphs #math-and-logic #strongly-connected-components #dfs**                                            |
+| 1728    | [Cat and mouse II](./FirstThreeTwo/CatAndMouseII.java)                                                                             | **#graphs #dfs #dp #memoiation #game-theory #trick #dfs-no-visit-track #dfs**                              |
 | 1735    | [Count Ways to Make Array With Product](./SixtyFour/CountWaysToMakeArrayWithProduct.java)                                                   | **#sieve-eratosthenes #combinatorics #math #dp #tricky**                                                   |   
 | 1737    | [Change Minimum Characters to Satisfy One of Three Conditions](./FirstThreeTwo/ChangeMinimumCharactersToSatisfyOneOfThreeConditions/sol.md) |                                                                                                            |   
 | 1793    | [Maximum Score of a Good Subarray](./SixtyFour/MaximumScoreOfGoodSubarray.java)                                                             | **#greedy #two-pointer #ranged-two-pointer #based-on-others #monotonic-stack #dynamic-programming #stack** |
@@ -60,12 +61,24 @@
 | Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                     |
 
 Unlisted: 16    
-Total: 60/256
+Total: 61/256
 
-P.S I don't count `easy` questions in above count.
+P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
 ### Backlog list
 
+- https://leetcode.com/problems/cat-and-mouse-ii/
+- https://leetcode.com/problems/cat-and-mouse/
+
+- https://leetcode.com/problems/next-greater-element-iv/
+- https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/submissions/
+- https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
+- https://leetcode.com/problems/design-video-sharing-platform/
+- https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/
+- https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/
+- https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/
+- https://leetcode.com/problems/count-submatrices-with-all-ones/
+- https://leetcode.com/problems/find-the-most-competitive-subsequence/
 - https://leetcode.com/discuss/interview-question/2271498/google-oa-2022-count-pairs-problem-solved
 - https://leetcode.com/problems/count-ways-to-make-array-with-product/
 - https://leetcode.com/problems/beautiful-arrangement/
