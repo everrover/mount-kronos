@@ -9,7 +9,7 @@ public class Solution {
 
   private int S2(int sum, int x){
     int b = Integer.toString(x).length();
-    return sum + b*x;
+    return b*x-sum;
   }
 
   private int[] findX(final int L, final int S){
@@ -17,7 +17,7 @@ public class Solution {
     int A = S2(0, ul), B = S1(L, ul);
     int s = B-A, t = 0, Aprev = 0;
     while(s < S && t<s){
-      t = s; Aprev += A;
+      t = s; Aprev = A;
       ll *= 10; ul = ul*10+9;
       B = S1(L, ul); A = S2(Aprev, ul);
       s = B-A;
@@ -52,9 +52,10 @@ public class Solution {
 
   public static void main(String[] args) {
     StringBuilder msg = new StringBuilder();
-    for(int i=1; i<=20; i++){
+    for(int i=1; i<=1; i++){
       msg.append("this is really a very awesome message. ").append(i).append(". ");
     }
-    new Solution().splitMessage(msg.toString(), 15);
+    new Solution().splitMessage(msg.toString(), 9);
+    new Solution().splitMessage("this is really a very awesome message", 9);
   }
 }
