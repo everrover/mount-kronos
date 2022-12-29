@@ -32,6 +32,7 @@
 | 1728    | [Cat and mouse II](./FirstThreeTwo/CatAndMouseII.java)                                                                                      | **#graphs #dfs #dp #memoiation #game-theory #trick #dfs-no-visit-track #dfs**                              |
 | 1735    | [Count Ways to Make Array With Product](./SixtyFour/CountWaysToMakeArrayWithProduct.java)                                                   | **#sieve-eratosthenes #combinatorics #math #dp #tricky**                                                   |   
 | 1737    | [Change Minimum Characters to Satisfy One of Three Conditions](./FirstThreeTwo/ChangeMinimumCharactersToSatisfyOneOfThreeConditions/sol.md) |                                                                                                            |   
+| 1761    | [Minimum Degree of a Connected Trio in a Graph](./NinetySix/MinimumDegreeOfConnectedTrioInGraph.java)                                       | **#BRUTE-force #graph**                                                                                    |
 | 1793    | [Maximum Score of a Good Subarray](./SixtyFour/MaximumScoreOfGoodSubarray.java)                                                             | **#greedy #two-pointer #ranged-two-pointer #based-on-others #monotonic-stack #dynamic-programming #stack** |
 | 2076    | [Process Restricted Friend Requests](./FirstThreeTwo/ProcessRestrictedFriendRequests/sol.md)                                                |                                                                                                            |   
 | 2127    | [Maximum Employees to Be Invited to a Meeting](./SixtyFour/MinimumEmpToBInvitedToMeeting/sol.md)                                            | **#dfs #cycle-detection #tricky #ques-specific-approximation**                                             |   
@@ -56,7 +57,7 @@
 | 2458    | [Height of Binary Tree After Subtree Removal Queries](./SixtyFour/HtOfBinTreeAfterSubtreeRemovalQueries.java)                               | **#DFS #bfs #binary-tree #tricky #best-and-2nd-best**                                                      |
 | 2477    | [MinimumFuelToReportToCapitol](./SixtyFour/MinimumFuelToReportToCapitol.java)                                                               | **#DFS #bfs #tree #post-order-traversal #math-and-logic**                                                  |
 | 2508    | [Add Edges to Make Degrees of All Nodes Even](./NinetySix/AddEdgesToMakeDegreesOfAllNodesEven.java)                                         | **##two-pointer #sliding-window #unconventional-traversal**                                                |
-| 2516    | [Take K of Each Character From Left and Right](./NinetySix/TakeKOfEachCharacterFromLeftAndRight.java)                                       | **##two-pointer #sliding-window #unconventional-traversal**                                                |
+| 2516    | [Take K of Each Character From Left and Right](./NinetySix/TakeKOfEachCharacterFromLeftAndRight.java)                                       | **#split-sliding-window #sliding-window #suffix-precomputation**                                           |
 | MSOA    | [Contiguous Subarray Count with Arithmetic Mean](./SixtyFour/MicrosoftOA/ques.md)                                                           | **#maths #dynamic-programming #tricky**                                                                    |
 | MSOA    | [Build max-sized array with constraints](./SixtyFour/MicrosoftOA/ques.md)                                                                   | **#smart-enumeration #backtracking #on-constraint-switch #heap**                                           |
 | Uber OA | [Subsequence of `a` in copies of `b`](./SixtyFour/UberOA1/ques.md)                                                                          |                                                                                                            |
@@ -67,7 +68,7 @@
 | Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                     |
 
 Unlisted: 17    
-Total: 65/256
+Total: 70/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
