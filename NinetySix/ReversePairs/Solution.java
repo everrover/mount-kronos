@@ -6,7 +6,7 @@ package NinetySix.ReversePairs;
  * - Complexity would shoot up tom O(n) in extreme case. eg: sorted array in either inc or dec order
  * Could have used segment tree or binary-indexed tree also!!
  * -
- * - https://leetcode.com/problems/reverse-pairs/discuss/97268/General-principles-behind-problems-similar-to-%22Reverse-Pairs%22
+ * - https://leetcode.com/problems/reverse-pairs/discuss/97268/General-principles-behind-problems-similar-to-Reverse-Pairs
  */
 
 
