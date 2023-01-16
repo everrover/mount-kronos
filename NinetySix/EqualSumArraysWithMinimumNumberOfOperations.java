@@ -4,6 +4,15 @@ import java.util.TreeSet;
 
 /**
  * https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/
+ * Steps::
+ * - calculate the sum of both arrays
+ * - we perform the two operations until sum1 == sum2
+   * - if sum1>sum2: either increase sum2(by increasing smallest element in arr2) or decrease sum1(by decreasing largest element in arr1)
+   * - else: either decrease `sum2`(by decreasing largest element in arr2) or increase `sum1`(by increasing smallest element in arr1)
+ * - two important ceveats here
+   * - if all elements in arr1 are `1`(minimum) and `6`(maximum) in arr2, and sum(arr1)>sum(arr2): then we return -1. since no operations now will help us reach the desired state of sum1==sum2
+   * - we perform the most extreme increase or decrease to reach the desired state quickly and
+     * - if abs(sum1-sum2) >= (the increase or decrease) at any step then we reach the result state with that operation
  */
 public class EqualSumArraysWithMinimumNumberOfOperations {
   public int minOperations(int[] nums1, int[] nums2) {
