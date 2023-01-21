@@ -8,8 +8,8 @@ import java.util.Set;
  * 391. Perfect Rectangle
  * https://leetcode.com/problems/perfect-rectangle/
  * Approach 1::
- * - The area made via rectangle's extremes(calculated via iterating over all points) should equal the area formed via all rectangles]
- * - Any slots in overall rectangle
+ * - The area made via rectangle's extremes(calculated via iterating over all points) should equal the area formed via all rectangles
+ * - Any slots or overlapping rectangles in overall rectangle will cause number of non-overlapping points in component rectangles to exceed 4.
  *
  * Approach 2:: Line sweep algorithm
  * -
