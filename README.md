@@ -36,6 +36,7 @@
 | 1534    | [Count Good Triplets](./FirstThreeTwo/CountGoodTriplets/Solution.java)                                                                      |                                                                                                            |   
 | 1547    | [Minimum Cost to Cut a Stick](./FirstThreeTwo/MinimumCostToCutStick/sol.md)                                                                 |                                                                                                            |   
 | 1578    | [Minimum Time to Make Rope Colorful](./SixtyFour/MinimumTimeToMakeRopeColorful.java)                                                        | **#greedy #math #simple**                                                                                  |
+| 1626    | [Best Team With No Conflicts](./NinetySix/BestTeamWithNoConflicts.java)                                                                     | **#dp #binary-indexed-tree #longest-increasing-subsequence #sorting**                                      |
 | 1685    | [Sum of Absolute Differences in a Sorted Array](./FirstThreeTwo/SumOfAbsoluteDiffInSortedArrays/sol.md)                                     | **#math**                                                                                                  |
 | 1720    | [Decode XORed arr](./NinetySix/DecodeXORedArr.java)                                                                                         | **#binary-math #easy**                                                                                     |
 | 1722    | [Minimise Hamming Distance](./FirstThreeTwo/MinimiseHammingDistance/Solution.java)                                                          | **#graphs #math-and-logic #strongly-connected-components #dfs**                                            |
@@ -83,7 +84,7 @@
 | Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                     |
 
 Unlisted in count: 21
-Total: 81/256
+Total: 83/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
