@@ -37,6 +37,7 @@
 | 1735    | [Count Ways to Make Array With Product](./SixtyFour/CountWaysToMakeArrayWithProduct.java)                                                   | **#sieve-eratosthenes #combinatorics #math #dp #tricky**                                                   |   
 | 1737    | [Change Minimum Characters to Satisfy One of Three Conditions](./FirstThreeTwo/ChangeMinimumCharactersToSatisfyOneOfThreeConditions/sol.md) |                                                                                                            |   
 | 1761    | [Minimum Degree of a Connected Trio in a Graph](./NinetySix/MinimumDegreeOfConnectedTrioInGraph.java)                                       | **#BRUTE-force #graph**                                                                                    |
+| 1775    | [Equal Sum Arrays With Minimum Number of Operations](./NinetySix/EqualSumArraysWithMinimumNumberOfOperations.java)                          | **#greedy-simulation #greedy #buckets**                                                                    |
 | 1793    | [Maximum Score of a Good Subarray](./SixtyFour/MaximumScoreOfGoodSubarray.java)                                                             | **#greedy #two-pointer #ranged-two-pointer #based-on-others #monotonic-stack #dynamic-programming #stack** |
 | 1997    | [First Day Where You Have Been in All the Rooms](./NinetySix/FirstDayWhereYouHaveBeenInAllRooms/FirstDayWhereYouHaveBeenInAllRooms.java)    | **#greedy #tricky-dp #graphs #dynamic-programming #deep-logic**                                            |
 | 2076    | [Process Restricted Friend Requests](./FirstThreeTwo/ProcessRestrictedFriendRequests/sol.md)                                                |                                                                                                            |   
@@ -73,7 +74,7 @@
 | Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                     |
 
 Unlisted: 17    
-Total: 70/256
+Total: 73/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
