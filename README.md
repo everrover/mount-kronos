@@ -23,6 +23,7 @@
 | 838     | [Push dominoes](./SixtyFour/PushDominos.java)                                                                                               | **#implmentation**                                                                                         |    
 | 841     | [Keys and rooms](./SixtyFour/KeysAndRooms.java)                                                                                             | **#dfs**                                                                                                   |    
 | 877     | [Stone Game](./FirstThreeTwo/StoneGame/sol.md)                                                                                              | **#dynamic-programming #game-theory #greedy #math**                                                        |    
+| 938     | [Range sum of BST](./NinetySix/RangeSumOfBST.java)                                                                                          | **#easy #bst**                                                                                             |
 | 1155    | [Rolling dice with sum](./NinetySix/DiceRollsWithTargetSum.java)                                                                            | **#dynamic-programming #memory-optimization**                                                              |    
 | 1192    | Connections in a Network - [Articulation points](./FirstThreeTwo/ArticulationPoints/sol.md)                                                 | **#dynamic-programming #graph-theory #cycle-detection**                                                    |
 | 1202    | [Smallest String With Swaps](./FirstThreeTwo/SmallestStringWithSwaps/sol.md)                                                                |                                                                                                            |   
@@ -74,7 +75,7 @@
 | Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                     |
 
 Unlisted: 17    
-Total: 73/256
+Total: 75/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 

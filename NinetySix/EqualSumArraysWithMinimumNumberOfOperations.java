@@ -4,6 +4,8 @@ import java.util.TreeSet;
 
 /**
  * https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/
+ * Some other sols::
+ * - https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/discuss/1086142/C%2B%2BJava-O(n)
  * Steps::
  * - calculate the sum of both arrays
  * - we perform the two operations until sum1 == sum2
