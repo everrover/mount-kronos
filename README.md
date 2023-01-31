@@ -9,6 +9,7 @@
 | 207     | [Course Schedule](./SixtyFour/CourseSchedule.java)                                                                                          | **#easy #dfs #graphs #cycle-detection**                                                                    |
 | 235     | [Lowest Common Ancestor of a Binary Search Tree](./FirstThreeTwo/LCA/Solution.java)                                                         | **#easy #binary-tree**                                                                                     |
 | 315     | [Count of Smaller Numbers After Self](./FirstThreeTwo/CountOfSmallerElementsAfterSelf/sol.md)                                               |                                                                                                            |    
+| 319     | [Bulb switcher](./NinetySix/BulbSwitcher/BulbSwitcher.java)                                                                                 | **#maths #trick #simulation-was-overkill**                                                                 |
 | 354     | [354. Russian Doll Envelopes](./FirstThreeTwo/RussianDollEnvelopes/Solution.java)                                                           |                                                                                                            |
 | 391     | [PerfectRectangle](./NinetySix/PerfectRectangle.java)                                                                                       | **#trick #math**                                                                                           |
 | 397     | [Count Range Sum](./NinetySix/CountOfRangeSum/Solution.java)                                                                                | **#merge-sort #merge-algo #math #sliding-window #binary-search-tree #binary-indexed-tree**                 |
@@ -16,6 +17,7 @@
 | 493     | [Reverse pairs](./NinetySix/ReversePairs/Solution.java)                                                                                     | **#binary-search #bst #merge-sort #segment-tree #binary-indexed-tree**                                     |
 | 518     | [Counting Coins II](./FirstThreeTwo/CountingcCoins_II/sol.md)                                                                               | **#dynamic-programming #memory-optimization**                                                              |    
 | 560     | [Subarray Sum Equals K](./SixtyFour/SubarraySumEqualsK.java)                                                                                | **#simulation #dynamic-programming**                                                                       |    
+| 672     | [Bulb switcher II](./NinetySix/BulbSwitcherII.java)                                                                                         | **#simulation-on-paper #trick #simulation-was-overkill-in-code**                                           |
 | 740     | [Delete and Earn](./FirstThreeTwo/DeleteAndEarn/sol.md)                                                                                     |                                                                                                            |    
 | 743     | [Network Delay Time](./SixtyFour/NetworkDelayTime.java)                                                                                     | **#dijkstras-algorithm**                                                                                   |
 | 789     | [Escape the ghosts](./SixtyFour/PacmanEscapesTheGhost.java)                                                                                 | **#math #easy**                                                                                            |
@@ -75,7 +77,7 @@
 | Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                     |
 
 Unlisted: 17    
-Total: 75/256
+Total: 76/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
