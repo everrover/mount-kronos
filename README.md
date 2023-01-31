@@ -63,6 +63,7 @@
 | 2400    | [Number of Ways to Reach a Position After Exactly k Steps](./SixtyFour/NumberOfWaysToReachAPositionAfterExactlyKSteps/Solution.java)        | **#dynaic-programming #math #combinatorics**                                                               |
 | 2402    | [Meeting Rooms III](./SixtyFour/MeetingRooms3.java)                                                                                         | **#heaps #hard #tricky-impl**                                                                              |
 | 2406    | [Divide Intervals Into Minimum Number of Groups](./SixtyFour/DivideIntervalsIntoMinimumGroups/Solution.java)                                | **#heaps #meeting-rooms #line-sweep**                                                                      |
+| 2433    | [Find The Original Array of Prefix Xor](./NinetySix/FindOrginalArrayOfPrefixXor.java)                                                       | **#easy #binary-math**                                                                                     |
 | 2456    | [Most Popular Video Creator](./SixtyFour/MostPopularVideoCreator.java)                                                                      | **#heaps #maps #java-implementation #sorting**                                                             |
 | 2458    | [Height of Binary Tree After Subtree Removal Queries](./SixtyFour/HtOfBinTreeAfterSubtreeRemovalQueries.java)                               | **#DFS #bfs #binary-tree #tricky #best-and-2nd-best**                                                      |
 | 2477    | [MinimumFuelToReportToCapitol](./SixtyFour/MinimumFuelToReportToCapitol.java)                                                               | **#DFS #bfs #tree #post-order-traversal #math-and-logic**                                                  |
@@ -78,7 +79,7 @@
 | Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                     |
 
 Unlisted in count: 20
-Total: 78/256
+Total: 79/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
