@@ -22,6 +22,7 @@
 | 743     | [Network Delay Time](./SixtyFour/NetworkDelayTime.java)                                                                                     | **#dijkstras-algorithm**                                                                                   |
 | 789     | [Escape the ghosts](./SixtyFour/PacmanEscapesTheGhost.java)                                                                                 | **#math #easy**                                                                                            |
 | 799     | [Champagne Tower](./FirstThreeTwo/ChampagneTower/sol.md)                                                                                    |                                                                                                            |    
+| 826     | [Most Profit Assigning Work](./SixtyFour/MaxProfitAssignment.java)                                                                          | **#implmentation**                                                                                         |    
 | 838     | [Push dominoes](./SixtyFour/PushDominos.java)                                                                                               | **#implmentation**                                                                                         |    
 | 841     | [Keys and rooms](./SixtyFour/KeysAndRooms.java)                                                                                             | **#dfs**                                                                                                   |    
 | 877     | [Stone Game](./FirstThreeTwo/StoneGame/sol.md)                                                                                              | **#dynamic-programming #game-theory #greedy #math**                                                        |    
@@ -84,7 +85,7 @@
 | Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                     |
 
 Unlisted in count: 21
-Total: 83/256
+Total: 84/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
