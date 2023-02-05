@@ -5,7 +5,7 @@ import java.util.Queue;
 
 /**
  * https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/
- *
+ * Used a SPT solution over over the state graph ...
  * Minesweep title was enough to give the hint. But the trick was awesome. Thanks @Votrubac: https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/discuss/2111406/Minesweeper
  ```cpp
  pair<int, int> dirs[4] = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
