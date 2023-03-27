@@ -20,6 +20,7 @@
 | 672     | [Bulb switcher II](./NinetySix/BulbSwitcherII.java)                                                                                        | **#simulation-on-paper #trick #simulation-was-overkill-in-code**                                           |
 | 740     | [Delete and Earn](./FirstThreeTwo/DeleteAndEarn/sol.md)                                                                                    |                                                                                                            |    
 | 743     | [Network Delay Time](./SixtyFour/NetworkDelayTime.java)                                                                                    | **#dijkstras-algorithm**                                                                                   |
+| 743     | [Pyramid transition matrix](./NinetySix/PyramidTransitionMatrix.java)                                                                      | **#dfs #bfs #recursion #backtracking**                                                                     |
 | 789     | [Escape the ghosts](./SixtyFour/PacmanEscapesTheGhost.java)                                                                                | **#math #easy**                                                                                            |
 | 799     | [Champagne Tower](./FirstThreeTwo/ChampagneTower/sol.md)                                                                                   |                                                                                                            |    
 | 826     | [Most Profit Assigning Work](./SixtyFour/MaxProfitAssignment.java)                                                                         | **#implmentation**                                                                                         |    
@@ -86,7 +87,7 @@
 | Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                           | **#graph-theory #dynamic-programming**                                                                     |
 
 Unlisted in count: 21
-Total: 84/256
+Total: 85/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
