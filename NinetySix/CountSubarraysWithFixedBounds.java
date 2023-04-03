@@ -25,6 +25,10 @@ package NinetySix;
  * -----------------------------------------------------------
  * Twist:: maxK, minK, minP and maxP has been provided, which all should be part of sub-arrays?
  * Res:: We'd start tracking all four and use the extremes for computations. All four should be there. Check code for HASH{TWISTYFOUR}
+ *
+ * Formal proofs::
+ * https://leetcode.com/problems/count-subarrays-with-fixed-bounds/discuss/2708018/Four-Pointers
+ * https://leetcode.com/problems/count-subarrays-with-fixed-bounds/discuss/2708099/JavaC%2B%2BPython-Sliding-Window-with-Explanation
  */
 
 public class CountSubarraysWithFixedBounds {

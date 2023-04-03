@@ -11,7 +11,7 @@ package NinetySix.CountOfRangeSum;
  *     - right = index of largest element in BST with prefix-sum <= (sum-lower)
  *     - res += count_of_elements_in_fenwick_tree(right)-count_of_elements_in_fenwick_tree(left)+1;
  *     - mark count_of_elements_in_fenwick_tree(i) as 1
- *
+ * Some nice article: https://leetcode.com/problems/count-of-range-sum/discuss/111753/Java-MergeSort-O(n-long-n)-Solution-for-Reverse-Pairs-Count-of-Smaller-after-self-and-Count-of-Range-Sum.-Template-Coding!
  */
 public class Solution {
   private int lower = 0, upper = 0;

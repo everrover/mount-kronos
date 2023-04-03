@@ -14,7 +14,7 @@ public class BinarySearchSolution {
         for(int num: nums){
             int idx = binarySearch(sortedArr, num);
             // int idx = Collections.binarySearch(sortedArr, num); // it'll return a arbitary element with specific value, we need specifically the last occuring element
-            sortedArr.remove(idx);
+            sortedArr.remove(idx); // could've marked index
             ans.add(idx);
         }
         return ans;
