@@ -15,6 +15,7 @@
 | 397     | [Count Range Sum](./NinetySix/CountOfRangeSum/Solution.java)                                                                                | **#merge-sort #merge-algo #math #sliding-window #binary-search-tree #binary-indexed-tree**                 |
 | 437     | [PathSumIII](./NinetySix/PathSumIII.java)                                                                                                   | **binary-tree #preorder-traversal #dfs #bfs #dynamic-programming**                                         |
 | 493     | [Reverse pairs](./NinetySix/ReversePairs/Solution.java)                                                                                     | **#binary-search #bst #merge-sort #segment-tree #binary-indexed-tree**                                     |
+| 515     | [515. Find Largest Value in Each Tree Row](./NinetySix/FindLargestInEachBinTreeRow.java)                                                    | **#binary-tree #bfs #dfs**                                                                                 |    
 | 518     | [Counting Coins II](./FirstThreeTwo/CountingcCoins_II/sol.md)                                                                               | **#dynamic-programming #memory-optimization**                                                              |    
 | 560     | [Subarray Sum Equals K](./SixtyFour/SubarraySumEqualsK.java)                                                                                | **#simulation #dynamic-programming**                                                                       |    
 | 672     | [Bulb switcher II](./NinetySix/BulbSwitcherII.java)                                                                                         | **#simulation-on-paper #trick #simulation-was-overkill-in-code**                                           |
@@ -92,7 +93,7 @@
 | Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                     |
 
 Unlisted in count: 21
-Total: 90/256
+Total: 91/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
