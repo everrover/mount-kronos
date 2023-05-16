@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../payment-provider/demo.iml" filepath="$PROJECT_DIR$/../../payment-provider/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/mount-kronos.iml" filepath="$PROJECT_DIR$/mount-kronos.iml" />
     </modules>
   </component>
