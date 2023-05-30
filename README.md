@@ -6,6 +6,7 @@
 |---------|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | 84      | [Largest rectangle in histogram](./SixtyFour/LargestRectangleInHistogram/Solution.java)                                                     | **#🙅🏻‍♀ #monotonic-stack #dynamic-programming #stack**                                                         |
 | 85      | [Maximal Rectangle](./SixtyFour/MaximalRectangle.java)                                                                                      | **#based-on-others #monotonic-stack #dynamic-programming #stack**                                                |
+| 126     | [Word ladder](./SuperMario/WordLadderII.java)                                                                                               | **#strings #hashing #trie #bfs #graphs #backtracking #personal-experiment**                                      |
 | 127     | [Word ladder](./SuperMario/WordLadder.java)                                                                                                 | **#strings #hashing #trie #bfs #graphs**                                                                         |
 | 207     | [Course Schedule](./SixtyFour/CourseSchedule.java)                                                                                          | **#easy #dfs #graphs #cycle-detection**                                                                          |
 | 235     | [Lowest Common Ancestor of a Binary Search Tree](./FirstThreeTwo/LCA/Solution.java)                                                         | **#easy #binary-tree**                                                                                           |
@@ -98,7 +99,7 @@
 | Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
 Unlisted in count: 21
-Total: 97/256
+Total: 98/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
