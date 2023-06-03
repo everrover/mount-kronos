@@ -41,6 +41,7 @@
 | 1202    | [Smallest String With Swaps](./FirstThreeTwo/SmallestStringWithSwaps/sol.md)                                                                |                                                                                                                  |   
 | 1249    | [Minimum Remove to Make Valid Parentheses](./NinetySix/MinRemoveToMakeValidParenthesis.java)                                                | **#stacks #string**                                                                                              |   
 | 1323    | [Max 69 number](./NinetySix/Maximum69Number.java)                                                                                           | **#java #easy**                                                                                                  |   
+| 1376    | [](./SuperMario/InformEmployee.java)                                                                                                        | **#dfs #easy #bfs #tree**                                                                                        |   
 | 1414    | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](./NinetySix/FibNumbersWithSumK.java)                                          | **#math #greedy**                                                                                                |
 | 1514    | [Path with Maximum Probability](./FirstThreeTwo/PathWithMaxProbability/sol.md)                                                              | **#dijkstras-algorithm**                                                                                         |
 | 1534    | [Count Good Triplets](./FirstThreeTwo/CountGoodTriplets/Solution.java)                                                                      |                                                                                                                  |   
@@ -99,7 +100,7 @@
 | Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
 Unlisted in count: 21
-Total: 98/256
+Total: 99/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
