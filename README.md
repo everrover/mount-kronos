@@ -16,7 +16,7 @@
 | 391     | [PerfectRectangle](./NinetySix/PerfectRectangle.java)                                                                                       | **#trick #math**                                                                                                 |
 | 397     | [Count Range Sum](./NinetySix/CountOfRangeSum/Solution.java)                                                                                | **#merge-sort #merge-algo #math #sliding-window #binary-search-tree #binary-indexed-tree**                       |
 | 437     | [PathSumIII](./NinetySix/PathSumIII.java)                                                                                                   | **binary-tree #preorder-traversal #dfs #bfs #dynamic-programming**                                               |
-| 488     | [Count Reps](./NinetySix/CountRepetitions.java)                                                                                             | **#pattern-matching #dp**                                                                                        |
+| 466     | [Count Reps](./NinetySix/CountRepetitions.java)                                                                                             | **#pattern-matching #dp**                                                                                        |
 | 493     | [Reverse pairs](./NinetySix/ReversePairs/Solution.java)                                                                                     | **#binary-search #bst #merge-sort #segment-tree #binary-indexed-tree**                                           |
 | 515     | [515. Find Largest Value in Each Tree Row](./NinetySix/FindLargestInEachBinTreeRow.java)                                                    | **#binary-tree #bfs #dfs**                                                                                       |    
 | 518     | [Counting Coins II](./FirstThreeTwo/CountingcCoins_II/sol.md)                                                                               | **#dynamic-programming #memory-optimization**                                                                    |    
@@ -42,6 +42,7 @@
 | 1192    | Connections in a Network - [Articulation points](./FirstThreeTwo/ArticulationPoints/sol.md)                                                 | **#dynamic-programming #graph-theory #cycle-detection**                                                          |
 | 1202    | [Smallest String With Swaps](./FirstThreeTwo/SmallestStringWithSwaps/sol.md)                                                                |                                                                                                                  |   
 | 1249    | [Minimum Remove to Make Valid Parentheses](./NinetySix/MinRemoveToMakeValidParenthesis.java)                                                | **#stacks #string**                                                                                              |   
+| 1263    | [Minimum Moves to Move a Box to Their Target Location](./SuperMario/MinMovesToMoveBoxToTargetLocation.java)                                 | **#dfs #state-traversal #bfs #route-optimization #tricky**                                                       |
 | 1323    | [Max 69 number](./NinetySix/Maximum69Number.java)                                                                                           | **#java #easy**                                                                                                  |   
 | 1376    | [](./SuperMario/InformEmployee.java)                                                                                                        | **#dfs #easy #bfs #tree**                                                                                        |   
 | 1414    | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](./NinetySix/FibNumbersWithSumK.java)                                          | **#math #greedy**                                                                                                |
@@ -102,7 +103,7 @@
 | Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
 Unlisted in count: 21
-Total: 101/256
+Total: 102/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
