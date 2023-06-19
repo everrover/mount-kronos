@@ -4,6 +4,7 @@
 
 | Number  | Name                                                                                                                                        | Tags                                                                                                             |
 |---------|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| 76      | [Minimum Window Substring](./SuperMario/MinWindowSubstring.java)                                                                            | **#sliding-window #hashmap #array #string #done-b4**                                                             |
 | 84      | [Largest rectangle in histogram](./SixtyFour/LargestRectangleInHistogram/Solution.java)                                                     | **#🙅🏻‍♀ #monotonic-stack #dynamic-programming #stack**                                                         |
 | 85      | [Maximal Rectangle](./SixtyFour/MaximalRectangle.java)                                                                                      | **#based-on-others #monotonic-stack #dynamic-programming #stack**                                                |
 | 126     | [Word ladder](./SuperMario/WordLadderII.java)                                                                                               | **#strings #hashing #trie #bfs #graphs #backtracking #personal-experiment**                                      |
@@ -23,7 +24,7 @@
 | 547     | [Number of Provinces](./SuperMario/NumberOfProvinces.java)                                                                                  | **#graphs #dfs #bfs**                                                                                            |    
 | 560     | [Subarray Sum Equals K](./SixtyFour/SubarraySumEqualsK.java)                                                                                | **#simulation #dynamic-programming**                                                                             |    
 | 672     | [Bulb switcher II](./NinetySix/BulbSwitcherII.java)                                                                                         | **#simulation-on-paper #trick #simulation-was-overkill-in-code**                                                 |
-| 684     | [Redudant Connections](./SuperMario/DisjointSet.java)                                         <br/>                                         | **#dfs #cycle-detection**                                                                                        |   
+| 684     | [Redudant Connections](./SuperMario/DisjointSet.java)                                                                                       | **#dfs #cycle-detection**                                                                                        |   
 | 740     | [Delete and Earn](./FirstThreeTwo/DeleteAndEarn/sol.md)                                                                                     |                                                                                                                  |    
 | 743     | [Network Delay Time](./SixtyFour/NetworkDelayTime.java)                                                                                     | **#dijkstras-algorithm**                                                                                         |
 | 756     | [Pyramid transition matrix](./NinetySix/PyramidTransitionMatrix.java)                                                                       | **#dfs #bfs #recursion #backtracking**                                                                           |
@@ -104,7 +105,7 @@
 | Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
 Unlisted in count: 21
-Total: 102/256
+Total: 103/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
