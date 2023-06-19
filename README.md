@@ -37,6 +37,7 @@
 | 917     | [Reverse Only Letters](./NinetySix/ReverseOnlyLetters.java)                                                                                 | **#easy #memory-optimization #two-pass**                                                                         |
 | 938     | [Range sum of BST](./NinetySix/RangeSumOfBST.java)                                                                                          | **#easy #bst**                                                                                                   |
 | 995     | [Minimum Number Of K Consecutive Bit Flips](./NinetySix/MinimumNumberOfKConsecutiveBitFlips.java)                                           | **#tricky-approach #queue #sliding-window #unable-to-do-on-my-own**                                              |
+| 1091    | [Shortest Path in Binary Matrix](./SuperMario/ShortestPathInBinaryMatrix.java)                                                              | **#bfs #shortest-path #matrix**                                                                                  |
 | 1092    | [Shortest Common Supersequence](./NinetySix/ShortestCommonSupersequence.java)                                                               | **#dynamic-programming #memory-optimization #LCS #piggybacking**                                                 |    
 | 1143    | [Longest common sub-seq](./NinetySix/LongestCommonSubseq.java)                                                                              | **#dynamic-programming #memory-optimization**                                                                    |    
 | 1155    | [Rolling dice with sum](./NinetySix/DiceRollsWithTargetSum.java)                                                                            | **#dynamic-programming #memory-optimization**                                                                    |    
@@ -105,7 +106,7 @@
 | Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
 Unlisted in count: 21
-Total: 103/256
+Total: 104/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
