@@ -9,6 +9,7 @@
 | 85      | [Maximal Rectangle](./SixtyFour/MaximalRectangle.java)                                                                                      | **#based-on-others #monotonic-stack #dynamic-programming #stack**                                                |
 | 126     | [Word ladder](./SuperMario/WordLadderII.java)                                                                                               | **#strings #hashing #trie #bfs #graphs #backtracking #personal-experiment**                                      |
 | 127     | [Word ladder](./SuperMario/WordLadder.java)                                                                                                 | **#strings #hashing #trie #bfs #graphs**                                                                         |
+ | 189     | [Rotate array](./SixtyFour/RotateArr.java)                                                                      <br/>                       | **#array #rotation #trick #easy**           <br/>                                                                |
 | 207     | [Course Schedule](./SixtyFour/CourseSchedule.java)                                                                                          | **#easy #dfs #graphs #cycle-detection**                                                                          |
 | 235     | [Lowest Common Ancestor of a Binary Search Tree](./FirstThreeTwo/LCA/Solution.java)                                                         | **#easy #binary-tree**                                                                                           |
 | 315     | [Count of Smaller Numbers After Self](./FirstThreeTwo/CountOfSmallerElementsAfterSelf/sol.md)                                               |                                                                                                                  |    
@@ -89,6 +90,7 @@
 | 2402    | [Meeting Rooms III](./SixtyFour/MeetingRooms3.java)                                                                                         | **#heaps #hard #tricky-impl**                                                                                    |
 | 2406    | [Divide Intervals Into Minimum Number of Groups](./SixtyFour/DivideIntervalsIntoMinimumGroups/Solution.java)                                | **#heaps #meeting-rooms #line-sweep**                                                                            |
 | 2433    | [Find The Original Array of Prefix Xor](./NinetySix/FindOrginalArrayOfPrefixXor.java)                                                       | **#easy #binary-math**                                                                                           |
+| 2435    | [Paths in Matrix Whose Sum Is Divisible by K](./SuperMario/PathsInMatrixWhoseSumIsDivisibleByK.java)                                        | **#dfs #dynamic-programming #matrix**                                                                            |
 | 2444    | [Count Subarrays With Fixed Bounds](./NinetySix/CountSubarraysWithFixedBounds.java)                                                         | **#tricky #sliding-windows #twist**                                                                              |
 | 2456    | [Most Popular Video Creator](./SixtyFour/MostPopularVideoCreator.java)                                                                      | **#heaps #maps #java-implementation #sorting**                                                                   |
 | 2458    | [Height of Binary Tree After Subtree Removal Queries](./SixtyFour/HtOfBinTreeAfterSubtreeRemovalQueries.java)                               | **#DFS #bfs #binary-tree #tricky #best-and-2nd-best**                                                            |
@@ -106,7 +108,7 @@
 | Unk     | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
 Unlisted in count: 21
-Total: 104/256
+Total: 106/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
