@@ -9,7 +9,9 @@
 | 85         | [Maximal Rectangle](./SixtyFour/MaximalRectangle.java)                                                                                      | **#based-on-others #monotonic-stack #dynamic-programming #stack**                                                |
 | 126        | [Word ladder](./SuperMario/WordLadderII.java)                                                                                               | **#strings #hashing #trie #bfs #graphs #backtracking #personal-experiment**                                      |
 | 127        | [Word ladder](./SuperMario/WordLadder.java)                                                                                                 | **#strings #hashing #trie #bfs #graphs**                                                                         |
- | 189        | [Rotate array](./SuperMario/RotateArr.java)                                                                     <br/>                       | **#array #rotation #trick #easy**                                                                                |
+| 139        | [Word Break](./SuperMario/WordBreak.java)                                                                                                   | **#dynamic-programming #trie #string #hashing**                                                                  |
+| 140        | [Word Break II](./SuperMario/WordBreakII.java)                                                                                              | **#dynamic-programming #trie #string #hashing #backtracking**                                                    |
+| 189        | [Rotate array](./SuperMario/RotateArr.java)                                                                                                 | **#array #rotation #trick #easy**                                                                                |
 | 207        | [Course Schedule](./SixtyFour/CourseSchedule.java)                                                                                          | **#easy #dfs #graphs #cycle-detection**                                                                          |
 | 235        | [Lowest Common Ancestor of a Binary Search Tree](./FirstThreeTwo/LCA/Solution.java)                                                         | **#easy #binary-tree**                                                                                           |
 | 315        | [Count of Smaller Numbers After Self](./FirstThreeTwo/CountOfSmallerElementsAfterSelf/sol.md)                                               |                                                                                                                  |    
@@ -110,7 +112,7 @@
 | Unk        | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
 Unlisted in count: 21
-Total: 108/256
+Total: 109/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
