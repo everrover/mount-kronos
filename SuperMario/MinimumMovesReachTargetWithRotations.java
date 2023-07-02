@@ -23,6 +23,8 @@ class MinMovesToMoveBoxToTargetLocation {
    *      - all moves are in respect to tail of the snake
    *    - 2 moves to rotate : counter-clockwise and clockwise
    * TC: O(m*n), SC: O(m*n*2)
+   * 
+   * #bfs #dp #tricky #optimization #memoization-optimization
    */
 
   private static class Pos{
