@@ -75,6 +75,7 @@
 | 1855       | [Maximum Distance Between a Pair of Values](./NinetySix/MaximumDistanceBetweenPairOfValues.java)                                            | **#two-pointer-approach #binary-search #greedy #array-traversal**                                                |
 | 1894       | [Find the Student that Will Replace the Chalk](./NinetySix/FindStudentThatWillReplaceChalk.java)                                            | **#prefix-sum #binary-search #trivial #simulation #preventing-recomputes**                                       |
 | 1936       | [Add Minimum Number of Rungs](./NinetySix/AddMinNumberOfRungs.java)                                                                         | **#maths #greedy**                                                                                               |
+| 1970       | [Last Day Where You Can Still Cross](./SuperMario/LastDayWhereYouCanStillCross.java)                                                         | **#binary-search #dfs #bfs #disjoint-sets #tricky #inverse-thought-process**                                                                      |
 | 1997       | [First Day Where You Have Been in All the Rooms](./NinetySix/FirstDayWhereYouHaveBeenInAllRooms/FirstDayWhereYouHaveBeenInAllRooms.java)    | **#greedy #tricky-dp #graphs #dynamic-programming #deep-logic**                                                  |
 | 2076       | [Process Restricted Friend Requests](./FirstThreeTwo/ProcessRestrictedFriendRequests/sol.md)                                                |                                                                                                                  |   
 | 2127       | [Maximum Employees to Be Invited to a Meeting](./SixtyFour/MinimumEmpToBInvitedToMeeting/sol.md)                                            | **#dfs #cycle-detection #tricky #ques-specific-approximation**                                                   |   
@@ -116,7 +117,7 @@
 | Unk        | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
 Unlisted in count: 21
-Total: 114/256
+Total: 115/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
