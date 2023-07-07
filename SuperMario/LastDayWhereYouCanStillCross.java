@@ -13,7 +13,7 @@ public class LastDayWhereYouCanStillCross {
    * TC: O(m*n*log(m*n)) SC: O(m*n)
    * 
    * Afterwards I devised one linear way of doing it which runs in O(m*n) time and O(m*n) space. With disjoint sets.
-   * If for any, `k` such that cells[k...m*n] forms the shortest possible route bw `top` and `bottom`. 
+   * If for any, `k` such that water cells[k...m*n] form the shortest possible route bw `top` and `bottom`. 
    * It would mean that for all water filled cells[0...k-1], there would always be a path that connects `top` and `bottom`
    * 
    * Note for ME!!! @3July2023: 

@@ -10,7 +10,7 @@ public class EscapeTheSpreadingFire {
    * 
    * > binary-search approach
    * Thought of applying the approach used in LastDayWhereYouCanStillCross.java.
-   * Performing repetitive BFS for the entire solution space.
+   * Performing repetitive BFS for the entire solution space using binary search.
    * But found a more optimal way. 
    * 
    * TC: O(m*n*log(m*n)) SC: O(m*n)
@@ -32,7 +32,7 @@ public class EscapeTheSpreadingFire {
    * 
    * TC: O(m*n) SC: O(m*n)
    * 
-   * #bfs #binary-search #optimal
+   * #bfs #binary-search #optimal #binary-search-over-solution-space
    */
 
   private int [][]moves = new int[][]{{1,0},{-1,0},{0,1},{0,-1}};

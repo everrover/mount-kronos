@@ -37,6 +37,7 @@
 | 826        | [Most Profit Assigning Work](./SixtyFour/MaxProfitAssignment.java)                                                                          | **#implmentation**                                                                                               |    
 | 838        | [Push dominoes](./SixtyFour/PushDominos.java)                                                                                               | **#implmentation**                                                                                               |    
 | 841        | [Keys and rooms](./SixtyFour/KeysAndRooms.java)                                                                                             | **#dfs**                                                                                                         |    
+| 875        | [Koko eating bananas](./SuperMario/KokoEatingBananas.java)                        | **#binary-search #bin-search-over-solution-space** |
 | 877        | [Stone Game](./FirstThreeTwo/StoneGame/sol.md)                                                                                              | **#dynamic-programming #game-theory #greedy #math**                                                              |    
 | 887        | [Super Egg Drop](./SuperMario/EggDroppingPuzzle.java)                                                                                       | **#binary-search #dynamic-programming #tricky-optimization**                                                     |
 | 917        | [Reverse Only Letters](./NinetySix/ReverseOnlyLetters.java)                                                                                 | **#easy #memory-optimization #two-pass**                                                                         |
@@ -80,7 +81,7 @@
 | 2076       | [Process Restricted Friend Requests](./FirstThreeTwo/ProcessRestrictedFriendRequests/sol.md)                                                |                                                                                                                  |   
 | 2127       | [Maximum Employees to Be Invited to a Meeting](./SixtyFour/MinimumEmpToBInvitedToMeeting/sol.md)                                            | **#dfs #cycle-detection #tricky #ques-specific-approximation**                                                   |   
 | 2218       | [Maximum Value of K Coins From Piles](./FirstThreeTwo/MaximumValueOfKCoinsFromPiles/sol.md)                                                 |                                                                                                                  |
-| 2258       | [Escape the Spreading Fire](./SuperMario/EscapeTheSpreadingFire.java)                                                                          | **#dfs #bfs #binary-search #optimization**                                                        |
+| 2258       | [Escape the Spreading Fire](./SuperMario/EscapeTheSpreadingFire.java)                                                                          | **#dfs #bfs #binary-search #binary-search-over-solution-space #optimization**                                                        |
 | 2260       | [Minimum Consecutive Cards to Pick Up](./NinetySix/MinimumConsecutivCardsToPickUp.java)                                                     | **sliding-window #hashing**                                                                                      |
 | 2271       | [Maximum White Tiles Covered by a Carpet](./SixtyFour/MaxWhiteTilesCoveredByCarpet.java)                                                    | **#tricky #banged-head-in-the-wall-for-it #critical-edge-case**                                                  |
 | 2290       | [Minimum Obstacle Removal to Reach Corner](./NinetySix/MinimumObstacleRemovalToReachCorner/Solution.java)                                   | **#graphs #bfs #dfs #dijkstras-algo #optinization #shortest-path-tree #minsweeper**                              |
@@ -118,7 +119,7 @@
 | Unk        | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
 Unlisted in count: 21
-Total: 116/256
+Total: 118/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
