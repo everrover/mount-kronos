@@ -34,6 +34,7 @@
 | 756        | [Pyramid transition matrix](./NinetySix/PyramidTransitionMatrix.java)                                                                       | **#dfs #bfs #recursion #backtracking**                                                                           |
 | 789        | [Escape the ghosts](./SixtyFour/PacmanEscapesTheGhost.java)                                                                                 | **#math #easy**                                                                                                  |
 | 799        | [Champagne Tower](./FirstThreeTwo/ChampagneTower/sol.md)                                                                                    |                                                                                                                  |    
+| 803        | [Bricks falling when hit](./SuperMario/StableBric.java) | **#dfs #bfs #graphs #union-find** |
 | 826        | [Most Profit Assigning Work](./SixtyFour/MaxProfitAssignment.java)                                                                          | **#implmentation**                                                                                               |    
 | 838        | [Push dominoes](./SixtyFour/PushDominos.java)                                                                                               | **#implmentation**                                                                                               |    
 | 841        | [Keys and rooms](./SixtyFour/KeysAndRooms.java)                                                                                             | **#dfs**                                                                                                         |    
@@ -119,7 +120,7 @@
 | Unk        | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
 Unlisted in count: 21
-Total: 118/256
+Total: 119/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
