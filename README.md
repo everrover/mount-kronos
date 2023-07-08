@@ -32,7 +32,7 @@
 | 740        | [Delete and Earn](./FirstThreeTwo/DeleteAndEarn/sol.md)                                                                                     |                                                                                                                  |    
 | 743        | [Network Delay Time](./SixtyFour/NetworkDelayTime.java)                                                                                     | **#dijkstras-algorithm**                                                                                         |
 | 756        | [Pyramid transition matrix](./NinetySix/PyramidTransitionMatrix.java)                                                                       | **#dfs #bfs #recursion #backtracking**                                                                           |
-| 789        | [Escape the ghosts](./SixtyFour/PacmanEscapesTheGhost.java)                                                                                 | **#math #easy**                                                                                                  |
+| 789        | [Escaaape the ghosts](./SixtyFour/PacmanEscapesTheGhost.java)                                                                                 | **#math #easy**                                                                                                  |
 | 799        | [Champagne Tower](./FirstThreeTwo/ChampagneTower/sol.md)                                                                                    |                                                                                                                  |    
 | 803        | [Bricks falling when hit](./SuperMario/StableBric.java)+[Sol#1](./SuperMario/StableBrix.java) | **#dfs #bfs #graphs #union-find** |
 | 826        | [Most Profit Assigning Work](./SixtyFour/MaxProfitAssignment.java)                                                                          | **#implmentation**                                                                                               |    
@@ -104,7 +104,8 @@
 | 2433       | [Find The Original Array of Prefix Xor](./NinetySix/FindOrginalArrayOfPrefixXor.java)                                                       | **#easy #binary-math**                                                                                           |
 | 2435       | [Paths in Matrix Whose Sum Is Divisible by K](./SuperMario/PathsInMatrixWhoseSumIsDivisibleByK.java)                                        | **#dfs #dynamic-programming #matrix**                                                                            |
 | 2444       | [Count Subarrays With Fixed Bounds](./NinetySix/CountSubarraysWithFixedBounds.java)                                                         | **#tricky #sliding-windows #twist**                                                                              |
-| 2456       | [Most Popular Video Creator](./SixtyFour/MostPopularVideoCreator.java)                                                                      | **#heaps #maps #java-implementation #sorting**                                                                   |
+| 2551     | [Put Marbles in Bags](./SuperMario/PickingMarbles.java)                                                                                   | **#math #combinatorics #dp #tricky**                                                                             |
+| 2456       | [Most Popular Video Creator](./SixtyFour/MostPopularVideoCreator.java)                                                                      | **#greedy #priority-queue #sorting #math #optimization**                                                                   |
 | 2458       | [Height of Binary Tree After Subtree Removal Queries](./SixtyFour/HtOfBinTreeAfterSubtreeRemovalQueries.java)                               | **#DFS #bfs #binary-tree #tricky #best-and-2nd-best**                                                            |
 | 2477       | [MinimumFuelToReportToCapitol](./SixtyFour/MinimumFuelToReportToCapitol.java)                                                               | **#DFS #bfs #tree #post-order-traversal #math-and-logic**                                                        |
 | 2508       | [Add Edges to Make Degrees of All Nodes Even](./NinetySix/AddEdgesToMakeDegreesOfAllNodesEven.java)                                         | **##two-pointer #sliding-window #unconventional-traversal**                                                      |
@@ -120,7 +121,7 @@
 | Unk        | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
 Unlisted in count: 21
-Total: 119/256
+Total: 120/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
