@@ -55,6 +55,7 @@
 | 1210       | [Minimum Moves to Reach Target with Rotations](./SuperMario/MinMovesToReachTargetWithRotations.java)                           | **#bfs #dp #tricky #optimization #memoization-optimization**                                              |
 | 1249       | [Minimum Remove to Make Valid Parentheses](./NinetySix/MinRemoveToMakeValidParenthesis.java)                                                | **#stacks #string**                                                                                              |   
 | 1263       | [Minimum Moves to Move a Box to Their Target Location](./SuperMario/MinMovesToMoveBoxToTargetLocation.java)                                 | **#dfs #state-traversal #bfs #route-optimization #tricky**                                                       |
+| 1320       | [Minimum Distance to Type a Word Using Two Fingers](./SuperMario/MinDistanceToTypeWordUsingTwoFingers.java)                                 | **#dynamic-programming #small-trick #optimization #memoization-optimization**                                         |
 | 1323       | [Max 69 number](./NinetySix/Maximum69Number.java)                                                                                           | **#java #easy**                                                                                                  |   
 | 1376       | [](./SuperMario/InformEmployee.java)                                                                                                        | **#dfs #easy #bfs #tree**                                                                                        |   
 | 1414       | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](./NinetySix/FibNumbersWithSumK.java)                                          | **#math #greedy**                                                                                                |
@@ -122,7 +123,7 @@
 | Unk        | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
 Unlisted in count: 21
-Total: 121/256
+Total: 122/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
