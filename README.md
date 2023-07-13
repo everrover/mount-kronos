@@ -28,7 +28,8 @@
 | 547        | [Number of Provinces](./SuperMario/NumberOfProvinces.java)                                                                                  | **#graphs #dfs #bfs**                                                                                            |    
 | 560        | [Subarray Sum Equals K](./SixtyFour/SubarraySumEqualsK.java)                                                                                | **#simulation #dynamic-programming**                                                                             |    
 | 672        | [Bulb switcher II](./NinetySix/BulbSwitcherII.java)                                                                                         | **#simulation-on-paper #trick #simulation-was-overkill-in-code**                                                 |
-| 684        | [Redudant Connections](./SuperMario/DisjointSet.java)                                                                                       | **#dfs #cycle-detection**                                                                                        |   
+| 684        | [Redudant Connections](./SuperMario/DisjointSet.java)                                                                                       | **#dfs #cycle-detection**                                                                                        |  
+| 719       | [Find K-th Smallest Pair Distance](./SuperMario/FindKthSmallestPairDistance.java)                                                      | **#binary-search #binary-search-over-solution-space #tricky** |
 | 740        | [Delete and Earn](./FirstThreeTwo/DeleteAndEarn/sol.md)                                                                                     |                                                                                                                  |    
 | 743        | [Network Delay Time](./SixtyFour/NetworkDelayTime.java)                                                                                     | **#dijkstras-algorithm**                                                                                         |
 | 756        | [Pyramid transition matrix](./NinetySix/PyramidTransitionMatrix.java)                                                                       | **#dfs #bfs #recursion #backtracking**                                                                           |
@@ -123,7 +124,7 @@
 | Unk        | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
 Unlisted in count: 21
-Total: 122/256
+Total: 123/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
