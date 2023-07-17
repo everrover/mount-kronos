@@ -78,6 +78,7 @@
 | 1761       | [Minimum Degree of a Connected Trio in a Graph](./NinetySix/MinimumDegreeOfConnectedTrioInGraph.java)                                       | **#BRUTE-force #graph**                                                                                          |
 | 1775       | [Equal Sum Arrays With Minimum Number of Operations](./NinetySix/EqualSumArraysWithMinimumNumberOfOperations.java)                          | **#greedy-simulation #greedy #buckets**                                                                          |
 | 1793       | [Maximum Score of a Good Subarray](./SixtyFour/MaximumScoreOfGoodSubarray.java)                                                             | **#greedy #two-pointer #ranged-two-pointer #based-on-others #monotonic-stack #dynamic-programming #stack**       |
+| 1799      | [Maximize Score After N Operations](./SuperMario/MaximizeScoreAfterNOperations.java)                                                         | **#backtracking #dynamic-programming #gcd #memoization #tricky-optimization #bitmasking**                                                        |
 | 1855       | [Maximum Distance Between a Pair of Values](./NinetySix/MaximumDistanceBetweenPairOfValues.java)                                            | **#two-pointer-approach #binary-search #greedy #array-traversal**                                                |
 | 1894       | [Find the Student that Will Replace the Chalk](./NinetySix/FindStudentThatWillReplaceChalk.java)                                            | **#prefix-sum #binary-search #trivial #simulation #preventing-recomputes**                                       |
 | 1936       | [Add Minimum Number of Rungs](./NinetySix/AddMinNumberOfRungs.java)                                                                         | **#maths #greedy**                                                                                               |
@@ -125,7 +126,7 @@
 | Unk        | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
 Unlisted in count: 21
-Total: 124/256
+Total: 125/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
