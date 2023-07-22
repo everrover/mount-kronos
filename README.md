@@ -62,6 +62,7 @@
 | 1376       | [](./SuperMario/InformEmployee.java)                                                                                                        | **#dfs #easy #bfs #tree**                                                                                        |   
 | 1414       | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](./NinetySix/FibNumbersWithSumK.java)                                          | **#math #greedy**                                                                                                |
 | 1463       | [Cherry Pickup II](./SuperMario/CherryPickupII.java)                                                                                        | **#dfs #dynamic-programming**                                                              |
+| 1467       | [Probability of a Two Boxes Having The Same Number of Distinct Balls](ProbabilityOfTwoBoxesHavingSameNumberOfDistinctBalls.java) | **#dynamic-programming #memoization #combinatorics #backtracking #tricky #hard**                                                              |
 | 1478       | [Allocate Mailboxes](./SuperMario/AllocateMailboxes.java) | **#math #dynamic-programming #sorting** |
 | 1499       | [max-value-of-equation](./SuperMario/MaxValueOfEqForPoints.java)                                                                            | **#heap #sliding-window #deque #maths**                                                                          |
 | 1514       | [Path with Maximum Probability](./FirstThreeTwo/PathWithMaxProbability/sol.md)                                                              | **#dijkstras-algorithm**                                                                                         |
@@ -129,7 +130,7 @@
 | Unk        | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
 Unlisted in count: 21
-Total: 129/256
+Total: 130/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
