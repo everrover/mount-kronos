@@ -43,6 +43,7 @@
 | 877        | [Stone Game](./FirstThreeTwo/StoneGame/sol.md)                                                                                              | **#dynamic-programming #game-theory #greedy #math**                                                              |    
 | 887        | [Super Egg Drop](./SuperMario/EggDroppingPuzzle.java)                                                                                       | **#binary-search #dynamic-programming #tricky-optimization**                                                     |
 | 917        | [Reverse Only Letters](./NinetySix/ReverseOnlyLetters.java)                                                                                 | **#easy #memory-optimization #two-pass**                                                                         |
+| 927       | [Three equal parts](./LordShiva/ThreeEqualParts.java)                                                                                       | **#math #array #tricky #math:divisibility-rule**                                       |
 | 938        | [Range sum of BST](./NinetySix/RangeSumOfBST.java)                                                                                          | **#easy #bst**                                                                                                   |
 | 956        | [Tallest Billboard](./SuperMario/TallestBillboard.java)                                                                                     | **#dynamic-programming #knapsack #memoization #tricky #unbounded-knapsack**                                      |
 | 960        | [Delete Columns to Make Sorted III](./SuperMario/DeleteColumnsToMakeSortedIII/sol.md)                                                    | **#dynamic-programming  #longest-increasing-subseq #memory-optimization**                                                                    |
@@ -62,7 +63,7 @@
 | 1376       | [](./SuperMario/InformEmployee.java)                                                                                                        | **#dfs #easy #bfs #tree**                                                                                        |   
 | 1414       | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](./NinetySix/FibNumbersWithSumK.java)                                          | **#math #greedy**                                                                                                |
 | 1463       | [Cherry Pickup II](./SuperMario/CherryPickupII.java)                                                                                        | **#dfs #dynamic-programming**                                                              |
-| 1467       | [Probability of a Two Boxes Having The Same Number of Distinct Balls](ProbabilityOfTwoBoxesHavingSameNumberOfDistinctBalls.java) | **#dynamic-programming #memoization #combinatorics #backtracking #tricky #hard**                                                              |
+| 1467       | [Probability of a Two Boxes Having The Same Number of Distinct Balls](./LordShiva/ProbabilityOfTwoBoxesHavingSameNumberOfDistinctBalls.java) | **#dynamic-programming #memoization #combinatorics #backtracking #tricky #hard**                                                              |
 | 1478       | [Allocate Mailboxes](./SuperMario/AllocateMailboxes.java) | **#math #dynamic-programming #sorting** |
 | 1499       | [max-value-of-equation](./SuperMario/MaxValueOfEqForPoints.java)                                                                            | **#heap #sliding-window #deque #maths**                                                                          |
 | 1514       | [Path with Maximum Probability](./FirstThreeTwo/PathWithMaxProbability/sol.md)                                                              | **#dijkstras-algorithm**                                                                                         |
@@ -79,7 +80,7 @@
 | 1735       | [Count Ways to Make Array With Product](./SixtyFour/CountWaysToMakeArrayWithProduct.java)                                                   | **#sieve-eratosthenes #combinatorics #math #dp #tricky**                                                         |
 | 1737       | [Change Minimum Characters to Satisfy One of Three Conditions](./FirstThreeTwo/ChangeMinimumCharactersToSatisfyOneOfThreeConditions/sol.md) |                                                                                                                  |   
 | 1761       | [Minimum Degree of a Connected Trio in a Graph](./NinetySix/MinimumDegreeOfConnectedTrioInGraph.java)                                       | **#BRUTE-force #graph**                                                                                          |
-| 1769       | [Minimum Number of Operations to Move All Balls to Each Box](MinimumNumberOperationsToMoveAllBallsToEachBox.java) | **#prefix-sum-concept #array #math #easy** | 
+| 1769       | [Minimum Number of Operations to Move All Balls to Each Box](./LordShiva/MinimumNumberOperationsToMoveAllBallsToEachBox.java) | **#prefix-sum-concept #array #math #easy** | 
 | 1775       | [Equal Sum Arrays With Minimum Number of Operations](./NinetySix/EqualSumArraysWithMinimumNumberOfOperations.java)                          | **#greedy-simulation #greedy #buckets**                                                                          |
 | 1793       | [Maximum Score of a Good Subarray](./SixtyFour/MaximumScoreOfGoodSubarray.java)                                                             | **#greedy #two-pointer #ranged-two-pointer #based-on-others #monotonic-stack #dynamic-programming #stack**       |
 | 1799      | [Maximize Score After N Operations](./SuperMario/MaximizeScoreAfterNOperations.java)                                                         | **#backtracking #dynamic-programming #gcd #memoization #tricky-optimization #bitmasking**                                                        |
@@ -130,7 +131,7 @@
 | Unk        | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
 Unlisted in count: 21
-Total: 130/256
+Total: 131/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 

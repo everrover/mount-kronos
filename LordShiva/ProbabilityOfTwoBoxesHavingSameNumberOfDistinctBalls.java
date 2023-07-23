@@ -1,3 +1,4 @@
+package LordShiva;
 public class ProbabilityOfTwoBoxesHavingSameNumberOfDistinctBalls {
 
   /**

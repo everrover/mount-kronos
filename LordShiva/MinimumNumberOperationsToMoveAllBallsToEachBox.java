@@ -1,3 +1,4 @@
+package LordShiva;
 public class MinimumNumberOperationsToMoveAllBallsToEachBox {
   /**
    * https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
