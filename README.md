@@ -24,9 +24,11 @@
 | 493        | [Reverse pairs](./NinetySix/ReversePairs/Solution.java)                                                                                     | **#binary-search #bst #merge-sort #segment-tree #binary-indexed-tree**                                           |
 | 502        | [IPO](./SuperMario/IPO.java)                                                                                                                | **#greedy #heap #priority-queue #trivial-optimization**                                                          |
 | 515        | [515. Find Largest Value in Each Tree Row](./NinetySix/FindLargestInEachBinTreeRow.java)                                                    | **#binary-tree #bfs #dfs**                                                                                       |    
-| 518        | [Counting Coins II](./FirstThreeTwo/CountingcCoins_II/sol.md)                                                                               | **#dynamic-programming #memory-optimization**                                                                    |    
+| 518        | [Counting Coins II](./FirstThreeTwo/CountingcCoins_II/sol.md)                                                                               | **#dynamic-programming #memory-optimization**                                                                    |
+| 546       | [Remove boxes](./LordShiva/RemoveBoxes.java)                                                                                                | **#dynamic-programming #array #tricky #important**                                                              |
 | 547        | [Number of Provinces](./SuperMario/NumberOfProvinces.java)                                                                                  | **#graphs #dfs #bfs**                                                                                            |    
-| 560        | [Subarray Sum Equals K](./SixtyFour/SubarraySumEqualsK.java)                                                                                | **#simulation #dynamic-programming**                                                                             |    
+| 560        | [Subarray Sum Equals K](./SixtyFour/SubarraySumEqualsK.java)                                                                                | **#simulation #dynamic-programming**                                                                             |
+| 664       | [Strange printer](./LordShiva/StrangePrinter.java)                                                                                          | **#dynamic-programming #array #tricky #important**                                                      |
 | 672        | [Bulb switcher II](./NinetySix/BulbSwitcherII.java)                                                                                         | **#simulation-on-paper #trick #simulation-was-overkill-in-code**                                                 |
 | 684        | [Redudant Connections](./SuperMario/DisjointSet.java)                                                                                       | **#dfs #cycle-detection**                                                                                        |  
 | 719       | [Find K-th Smallest Pair Distance](./SuperMario/FindKthSmallestPairDistance.java)                                                      | **#binary-search #binary-search-over-solution-space #tricky** |
@@ -132,7 +134,7 @@
 | Unk        | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
 Unlisted in count: 21
-Total: 132/256
+Total: 133/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
