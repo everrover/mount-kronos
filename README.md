@@ -77,6 +77,7 @@
 | 1578       | [Minimum Time to Make Rope Colorful](./SixtyFour/MinimumTimeToMakeRopeColorful.java)                                                        | **#greedy #math #simple**                                                                                        |
 | 1626       | [Best Team With No Conflicts](./NinetySix/BestTeamWithNoConflicts.java)                                                                     | **#dp #binary-indexed-tree #longest-increasing-subsequence #sorting**                                            |
 | 1685       | [Sum of Absolute Differences in a Sorted Array](./FirstThreeTwo/SumOfAbsoluteDiffInSortedArrays/sol.md)                                     | **#math**                                                                                                        |
+| 1687       | [Delivering Boxes from Storage to Ports](./LordShiva/DeliveringBoxesFromStorageToPorts.java)                                               | **#dynamic-programming #sliding-window #mono-deque #prefix-sum #segment-tree #optimization #sliding-window**                                      |
 | 1720       | [Decode XORed arr](./NinetySix/DecodeXORedArr.java)                                                                                         | **#binary-math #easy**                                                                                           |
 | 1722       | [Minimise Hamming Distance](./FirstThreeTwo/MinimiseHammingDistance/Solution.java)                                                          | **#graphs #math-and-logic #strongly-connected-components #dfs**                                                  |
 | 1728       | [Cat and mouse II](./FirstThreeTwo/CatAndMouseII.java)                                                                                      | **#graphs #dfs #dp #memoiation #game-theory #trick #dfs-no-visit-track #dfs**                                    |
@@ -134,7 +135,7 @@
 | Unk        | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
 Unlisted in count: 21
-Total: 134/256
+Total: 135/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
