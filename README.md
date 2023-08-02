@@ -31,6 +31,7 @@
 | 664       | [Strange printer](./LordShiva/StrangePrinter.java)                                                                                          | **#dynamic-programming #array #tricky #important**                                                      |
 | 672        | [Bulb switcher II](./NinetySix/BulbSwitcherII.java)                                                                                         | **#simulation-on-paper #trick #simulation-was-overkill-in-code**                                                 |
 | 684        | [Redudant Connections](./SuperMario/DisjointSet.java)                                                                                       | **#dfs #cycle-detection**                                                                                        |  
+| 695        | [Max Area of Island](./LordShiva/MaxAreaOfIsland.java)                                                                                      | **#dfs #bfs #graphs #cycle-detection #matrix**                                                                           |
 | 719       | [Find K-th Smallest Pair Distance](./SuperMario/FindKthSmallestPairDistance.java)                                                      | **#binary-search #binary-search-over-solution-space #tricky** |
 | 740        | [Delete and Earn](./FirstThreeTwo/DeleteAndEarn/sol.md)                                                                                     |                                                                                                                  |    
 | 743        | [Network Delay Time](./SixtyFour/NetworkDelayTime.java)                                                                                     | **#dijkstras-algorithm**                                                                                         |
@@ -138,7 +139,7 @@
 | Unk        | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
 Unlisted in count: 21
-Total: 138/256
+Total: 139/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
