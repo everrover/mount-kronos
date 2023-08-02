@@ -97,6 +97,7 @@
 | 1997       | [First Day Where You Have Been in All the Rooms](./NinetySix/FirstDayWhereYouHaveBeenInAllRooms/FirstDayWhereYouHaveBeenInAllRooms.java)    | **#greedy #tricky-dp #graphs #dynamic-programming #deep-logic**                                                  |
 | 2076       | [Process Restricted Friend Requests](./FirstThreeTwo/ProcessRestrictedFriendRequests/sol.md)                                                |                                                                                                                  |   
 | 2127       | [Maximum Employees to Be Invited to a Meeting](./SixtyFour/MinimumEmpToBInvitedToMeeting/sol.md)                                            | **#dfs #cycle-detection #tricky #ques-specific-approximation**                                                   |   
+| 2217       | [Find Palindrome With Fixed Length](./LordShiva/FindPalindromeWithFixedLength.java)                                                 | **#math #array**|
 | 2218       | [Maximum Value of K Coins From Piles](./FirstThreeTwo/MaximumValueOfKCoinsFromPiles/sol.md)                                                 |                                                                                                                  |
 | 2258       | [Escape the Spreading Fire](./SuperMario/EscapeTheSpreadingFire.java)                                                                          | **#dfs #bfs #binary-search #binary-search-over-solution-space #optimization**                                                        |
 | 2260       | [Minimum Consecutive Cards to Pick Up](./NinetySix/MinimumConsecutivCardsToPickUp.java)                                                     | **sliding-window #hashing**                                                                                      |
@@ -137,7 +138,7 @@
 | Unk        | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
 Unlisted in count: 21
-Total: 137/256
+Total: 138/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 

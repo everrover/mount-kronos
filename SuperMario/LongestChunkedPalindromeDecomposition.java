@@ -43,7 +43,7 @@ public class LongestChunkedPalindromeDecomposition {
       while(r2>l1 && str[r2]!=str[l1]) r2--;
       int len = Math.abs(r1-r2+1);
       boolean isEq = text.substring(l1, l1+len).equals(text.substring(r2, r2+len));
-      // System.out.println(text.substring(l1, l1+len)); // needed debugging for case `ababa`, where `i` set l1<=r1 instead of l1<r1
+      // System.out.println(text.substring(l1, l1+len)); // needed debugging for case `ababa`, where I set l1<=r1 instead of l1<r1
       // System.out.println(text.substring(r2, r2+len));
       // System.out.println(len);
       if(isEq){
