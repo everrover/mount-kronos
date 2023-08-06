@@ -129,6 +129,7 @@
 | 2508       | [Add Edges to Make Degrees of All Nodes Even](./NinetySix/AddEdgesToMakeDegreesOfAllNodesEven.java)                                         | **##two-pointer #sliding-window #unconventional-traversal**                                                      |
 | 2516       | [Take K of Each Character From Left and Right](./NinetySix/TakeKOfEachCharacterFromLeftAndRight.java)                                       | **#split-sliding-window #sliding-window #suffix-precomputation**                                                 |
 | 2565       | [Subsequence With the Minimum Score](./NinetySix/SubseqWithMinScore.java)                                                                   | **#split-sliding-window #sliding-window #suffix-precomputation #dp #binary-search #bin-search-across_sol-space** |
+| 2812       | [Find the Safest Path in a Grid](./LordShiva/FindSafestPathInGrid.java) | **#contest #dfs #bfs #dijkstra-algorithm #priority-queue #binary-search** |
 | MSOA       | [Contiguous Subarray Count with Arithmetic Mean](./SixtyFour/MicrosoftOA/ques.md)                                                           | **#maths #dynamic-programming #tricky**                                                                          |
 | MSOA       | [Build max-sized array with constraints](./SixtyFour/MicrosoftOA/ques.md)                                                                   | **#smart-enumeration #backtracking #on-constraint-switch #heap**                                                 |
 | Uber_OA #2 | [Subsequence of `a` in copies of `b`](./SixtyFour/UberOA1/ques.md)                                                                          |                                                                                                                  |
@@ -139,7 +140,7 @@
 | Unk        | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
 Unlisted in count: 21
-Total: 139/256
+Total: 140/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
