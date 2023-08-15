@@ -20,6 +20,8 @@ public class ApplyOpsToMaximizeScore {
    * 
    * TC: O(n+log(n)) SC: O(n)
    * 
+   * https://www.calculatorsoup.com/calculators/math/prime-factors.php
+   * 
    * #array #stack #queue #priorityqueue #math #prime #optimization #important
    */
 
