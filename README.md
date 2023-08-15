@@ -131,6 +131,7 @@
 | 2565       | [Subsequence With the Minimum Score](./NinetySix/SubseqWithMinScore.java)                                                                   | **#split-sliding-window #sliding-window #suffix-precomputation #dp #binary-search #bin-search-across_sol-space** |
 | 2809       | [Minimum Time to Make Array Sum At Most x](./LordShiva/MinTimeToMakeArraySumAtMostX.java) // [Minimum Time to Make Array Sum At Most x](./LordShiva/MinimumTimetoMakeArraySumAtMostX.java)                                                  | **#tricky #very-hard #dynamic-programming #array #sorting #greedy #ai-wrote-this-description #contest**                                     |
 | 2812       | [Find the Safest Path in a Grid](./LordShiva/FindSafestPathInGrid.java) | **#contest #dfs #bfs #dijkstra-algorithm #priority-queue #binary-search** |
+| 2815       | [Max Pair Sum in an Array](./LordShiva/MaxPairSumInArray.java) | **#contest #array #hashing #easy** |
 | 2816       | [Double a Number Represented as a Linked List](./LordShiva/DoubleNumberRepresentedLinkedList.java) | **#math #linked-list** |
 | 2817       | [Minimum Absolute Difference Between Elements With Constraint](./LordShiva/MinAbsDiffBetweenElementsWithConstraint.java) | **#array #binary-search #binary-search-tree** |
 | MSOA       | [Contiguous Subarray Count with Arithmetic Mean](./SixtyFour/MicrosoftOA/ques.md)                                                           | **#maths #dynamic-programming #tricky**                                                                          |
