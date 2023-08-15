@@ -134,6 +134,7 @@
 | 2815       | [Max Pair Sum in an Array](./LordShiva/MaxPairSumInArray.java) | **#contest #array #hashing #easy** |
 | 2816       | [Double a Number Represented as a Linked List](./LordShiva/DoubleNumberRepresentedLinkedList.java) | **#math #linked-list** |
 | 2817       | [Minimum Absolute Difference Between Elements With Constraint](./LordShiva/MinAbsDiffBetweenElementsWithConstraint.java) | **#array #binary-search #binary-search-tree** |
+| 2818       | [Apply operations to maximize score](./LordShiva/ApplyOpsToMaximizeScore.java) | **#math #greedy #easy** |
 | MSOA       | [Contiguous Subarray Count with Arithmetic Mean](./SixtyFour/MicrosoftOA/ques.md)                                                           | **#maths #dynamic-programming #tricky**                                                                          |
 | MSOA       | [Build max-sized array with constraints](./SixtyFour/MicrosoftOA/ques.md)                                                                   | **#smart-enumeration #backtracking #on-constraint-switch #heap**                                                 |
 | Uber_OA #2 | [Subsequence of `a` in copies of `b`](./SixtyFour/UberOA1/ques.md)                                                                          |                                                                                                                  |
@@ -144,7 +145,7 @@
 | Unk        | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
 Unlisted in count: 21
-Total: 143/256
+Total: 144/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
