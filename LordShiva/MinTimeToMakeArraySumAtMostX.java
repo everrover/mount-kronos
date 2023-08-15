@@ -18,7 +18,7 @@ public class MinTimeToMakeArraySumAtMostX {
    * #tricky #very-hard #dynamic-programming #array #sorting #greedy #ai-wrote-this-description #contest
    * P.S. Resolved after contest.
    * 
-   * TC: O(n^2) SC: O(n^2)
+   * TC: O(n^2) SC: O(n)
    */
   public int minimumTime(List<Integer> nums1, List<Integer> nums2, int x) {
     int sa =0, sb = 0, n = nums1.size();
@@ -44,5 +44,29 @@ public class MinTimeToMakeArraySumAtMostX {
     return -1;
   }
 
-  
+  private int sa, sb, n;
+  private int[][] arr;
+  private int []dp;
+  public int minimumTimeSpaceOptimised(List<Integer> nums1, List<Integer> nums2, int x) {
+    sa = sb = 0;
+    n = nums1.size();
+    dp = new int[n+1];
+    arr = new int[n][2];
+    for (int i = 0; i < n; i++) {
+      int a = nums1.get(i), b = nums2.get(i);
+      arr[i][0]=b; arr[i][1]=a;
+      sa += a; sb += b;
+    }
+    Arrays.sort(arr, (a,b)->a[0]-b[0]);
+    Arrays.fill(dp, 0);
+    for(int j=0; j<n; j++){
+      for (int i=j+1; i>0; i--){
+        dp[i] = Math.max(dp[i], dp[i-1]+i*arr[j][0]+arr[j][1]);
+      }
+    }
+    for(int i=0; i<=n; i++){
+      if(sb*i+sa-dp[i] <= x) return i;
+    }
+    return -1;
+  }
 }
