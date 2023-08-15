@@ -10,7 +10,11 @@ public class MaxEleganceOfKLenSubsequence {
   /**
    * https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence/
    * 
+   * See the code plz. Too lazy to write the explanation.
    * 
+   * TC: O(nlogn) SC: O(n)
+   * 
+   * #greedy #array
    */
 
    public long findMaximumElegance(int[][] items, int k) {
