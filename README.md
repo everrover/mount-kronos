@@ -140,6 +140,9 @@
 | 2816       | [Double a Number Represented as a Linked List](./LordShiva/DoubleNumberRepresentedLinkedList.java) | **#math #linked-list** |
 | 2817       | [Minimum Absolute Difference Between Elements With Constraint](./LordShiva/MinAbsDiffBetweenElementsWithConstraint.java) | **#array #binary-search #binary-search-tree** |
 | 2818       | [Apply operations to maximize score](./LordShiva/ApplyOpsToMaximizeScore.java) | **#array #stack #queue #priorityqueue #math #prime #optimization #important** |
+| 2824       | [Count Pairs Whose Sum is Less than Target](./LordShiva/PairsWithSumLessThanTarget.java) | **#easy #brute-force #contest #sorting #two-pointer** |
+| 2825       | [Make String a Subsequence Using Cyclic Increments](./LordShiva/MakeStringSubsequenceUsingCyclicIncrements.java) | **#contest #easy #greedy #two-pointer** |
+| 2826       | [Sorting Three Groups](./LordShiva/SortThreeGroups.java) | **#easy #greedy #memoization #dynamic-programming #contest** |
 | MSOA       | [Contiguous Subarray Count with Arithmetic Mean](./SixtyFour/MicrosoftOA/ques.md)                                                           | **#maths #dynamic-programming #tricky**                                                                          |
 | MSOA       | [Build max-sized array with constraints](./SixtyFour/MicrosoftOA/ques.md)                                                                   | **#smart-enumeration #backtracking #on-constraint-switch #heap**                                                 |
 | Uber_OA #2 | [Subsequence of `a` in copies of `b`](./SixtyFour/UberOA1/ques.md)                                                                          |                                                                                                                  |
@@ -149,8 +152,8 @@
 | Unk        | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 | Unk        | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
-Unlisted in count: 21
-Total: 148/256
+Unlisted in count: 25
+Total: 150/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
