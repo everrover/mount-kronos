@@ -143,6 +143,7 @@
 | 2824       | [Count Pairs Whose Sum is Less than Target](./LordShiva/PairsWithSumLessThanTarget.java) | **#easy #brute-force #contest #sorting #two-pointer** |
 | 2825       | [Make String a Subsequence Using Cyclic Increments](./LordShiva/MakeStringSubsequenceUsingCyclicIncrements.java) | **#contest #easy #greedy #two-pointer** |
 | 2826       | [Sorting Three Groups](./LordShiva/SortThreeGroups.java) | **#easy #greedy #memoization #dynamic-programming #contest** |
+| 2842       | [Count K-Subsequences of a String With Maximum Beauty](./LordShiva/CountKSubseqOfStringWithMaxBeauty.java) | **#contest #math #greedy #combinatorics #combinatorial-optimization** |
 | MSOA       | [Contiguous Subarray Count with Arithmetic Mean](./SixtyFour/MicrosoftOA/ques.md)                                                           | **#maths #dynamic-programming #tricky**                                                                          |
 | MSOA       | [Build max-sized array with constraints](./SixtyFour/MicrosoftOA/ques.md)                                                                   | **#smart-enumeration #backtracking #on-constraint-switch #heap**                                                 |
 | Uber_OA #2 | [Subsequence of `a` in copies of `b`](./SixtyFour/UberOA1/ques.md)                                                                          |                                                                                                                  |
