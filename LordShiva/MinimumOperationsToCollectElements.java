@@ -1,4 +1,4 @@
-class Solution {
+class MinimumOperationsToCollectElements {
   /**
   https://leetcode.com/problems/minimum-operations-to-collect-elements/
   
