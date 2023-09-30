@@ -144,6 +144,9 @@
 | 2825       | [Make String a Subsequence Using Cyclic Increments](./LordShiva/MakeStringSubsequenceUsingCyclicIncrements.java) | **#contest #easy #greedy #two-pointer** |
 | 2826       | [Sorting Three Groups](./LordShiva/SortThreeGroups.java) | **#easy #greedy #memoization #dynamic-programming #contest** |
 | 2842       | [Count K-Subsequences of a String With Maximum Beauty](./LordShiva/CountKSubseqOfStringWithMaxBeauty.java) | **#contest #math #greedy #combinatorics #combinatorial-optimization** |
+| 2869       | [Minimum Operations to Collect Elements](./LordShiva/MinimumOperationsToCollectElements.java) | **#easy #sets #contest** |
+| 2870       | [Minimum Number of Operations to Make Array Empty](./LordShiva/MinimumNumberOfOperationsToMakeArrayEmpty.java) | **#dp #math #contest** |
+| 2872       | [Maximum Number of K-Divisible Components](./LordShiva/MaximumNumberOfKDivisibleComponents.java) | **#math #divisibility-rules #contest #dfs #greedy** |
 | MSOA       | [Contiguous Subarray Count with Arithmetic Mean](./SixtyFour/MicrosoftOA/ques.md)                                                           | **#maths #dynamic-programming #tricky**                                                                          |
 | MSOA       | [Build max-sized array with constraints](./SixtyFour/MicrosoftOA/ques.md)                                                                   | **#smart-enumeration #backtracking #on-constraint-switch #heap**                                                 |
 | Uber_OA #2 | [Subsequence of `a` in copies of `b`](./SixtyFour/UberOA1/ques.md)                                                                          |                                                                                                                  |
@@ -154,7 +157,7 @@
 | Unk        | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
 Unlisted in count: 25
-Total: 151/256
+Total: 153/256
 
 P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
 
