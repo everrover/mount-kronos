@@ -34,7 +34,7 @@ public class StrangePrinterII {
         co[3] = Math.max(co[3], j);
       }
     }
-    int res = 0;
+    // int res = 0;
     Set<Integer> colors = new HashSet<>(coords.keySet());
     while(!colors.isEmpty()){
       Set<Integer> news = new HashSet<>();

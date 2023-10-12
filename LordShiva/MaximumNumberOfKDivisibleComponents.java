@@ -1,3 +1,8 @@
+package LordShiva;
+
+import java.util.Set;
+import java.util.HashSet;
+
 class MaximumNumberOfKDivisibleComponents {
   /**
   https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/

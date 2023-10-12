@@ -1,3 +1,7 @@
+package LordShiva;
+
+import java.util.*;
+
 class MinimumOperationsToCollectElements {
   /**
   https://leetcode.com/problems/minimum-operations-to-collect-elements/
