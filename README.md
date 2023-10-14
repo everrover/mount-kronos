@@ -128,6 +128,9 @@
 | 2477       | [MinimumFuelToReportToCapitol](./SixtyFour/MinimumFuelToReportToCapitol.java)                                                               | **#DFS #bfs #tree #post-order-traversal #math-and-logic**                                                        |
 | 2508       | [Add Edges to Make Degrees of All Nodes Even](./NinetySix/AddEdgesToMakeDegreesOfAllNodesEven.java)                                         | **##two-pointer #sliding-window #unconventional-traversal**                                                      |
 | 2516       | [Take K of Each Character From Left and Right](./NinetySix/TakeKOfEachCharacterFromLeftAndRight.java)                                       | **#split-sliding-window #sliding-window #suffix-precomputation**                                                 |
+| 2554       | [Maximum Number of Integers to Choose From a Range I](./LordShiva/MaxNumberOfIntsToChooseFromRange1.java)                 | **#contest #greedy #traversal**                                                                       |
+| 2555       | [Separate Digits in an Array](./LordShiva/SeparateDigitsInArr.java)                 | **#contest #easy #traversal**                                                                       |
+| 2556       | [Disconnect Path in a Binary Matrix by at Most One Flip](./LordShiva/DisconnectPathInBinMatrixByAtmostOneFlip.java)                                                 | **#dfs #rashly-coded #contest**                                                                                  |
 | 2565       | [Subsequence With the Minimum Score](./NinetySix/SubseqWithMinScore.java)                                                                   | **#split-sliding-window #sliding-window #suffix-precomputation #dp #binary-search #bin-search-across_sol-space** |
 | 2663       | [Lexicographically Smallest Beautiful String](./LordShiva/LexoSmallestBeautifulString.java) | **#** |
 | 2809       | [Minimum Time to Make Array Sum At Most x](./LordShiva/MinTimeToMakeArraySumAtMostX.java) // [Minimum Time to Make Array Sum At Most x](./LordShiva/MinimumTimetoMakeArraySumAtMostX.java)                                                  | **#tricky #very-hard #dynamic-programming #array #sorting #greedy #ai-wrote-this-description #contest**                                     |
@@ -144,6 +147,8 @@
 | 2825       | [Make String a Subsequence Using Cyclic Increments](./LordShiva/MakeStringSubsequenceUsingCyclicIncrements.java) | **#contest #easy #greedy #two-pointer** |
 | 2826       | [Sorting Three Groups](./LordShiva/SortThreeGroups.java) | **#easy #greedy #memoization #dynamic-programming #contest** |
 | 2842       | [Count K-Subsequences of a String With Maximum Beauty](./LordShiva/CountKSubseqOfStringWithMaxBeauty.java) | **#contest #math #greedy #combinatorics #combinatorial-optimization** |
+| 2860       | [Happy students](./LordShiva/HappyStudents.java) | **#array #greedy #sorting #contest** |
+| 2861       | [Max Number Of Alloys](./LordShiva/MaxNumberOfAlloys.java) | **#contest #binary-search #greedy** |
 | 2869       | [Minimum Operations to Collect Elements](./LordShiva/MinimumOperationsToCollectElements.java) | **#easy #sets #contest** |
 | 2870       | [Minimum Number of Operations to Make Array Empty](./LordShiva/MinimumNumberOfOperationsToMakeArrayEmpty.java) | **#dp #math #contest** |
 | 2872       | [Maximum Number of K-Divisible Components](./LordShiva/MaximumNumberOfKDivisibleComponents.java) | **#math #divisibility-rules #contest #dfs #greedy** |
@@ -153,68 +158,20 @@
 | Uber_OA #3 | [Farmer John](./SuperMario/IPO.java)                                                                                                        |                                                                                                                  |
 | Unk        | [Bellman Ford algorithm](./FirstThreeTwo/BellmanFord/sol.md)                                                                                | **#graph-theory #dynamic-programming**                                                                           |
 | Unk        | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
-| Unk        | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
-| Unk        | [Floyd Warshall algorithm](./FirstThreeTwo/FloydWarshall/sol.md)                                                                            | **#graph-theory #dynamic-programming**                                                                           |
 
 Unlisted in count: 25
-Total: 161/256
+Total: 161/160
 
-P.S I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well.
+**Note:** I don't count `easy` questions in above count. Also, many of the solved questions aren't all listed as well. 
 
-## _Dynamic programming_
+### Personal note
 
-### [DP backlog](./dynamicProgrammingBacklog.md)
-### [LinkedIn IE #1](./linkedInIP.md)
-### [DP Leetcode set](https://leetcode.com/explore/learn/card/dynamic-programming/)
+As of writing this, I have solved 447 questions on Leetcode of which 365 are Med/Hard ones. I am not bragging, just putting myself out there, but I have done a ton of questions on other platforms as well, combined(yes literally it's just over 1k). Codeforces, HackerRank, HackerEarth, GFG, Google Kickstart... the list does not go on. For first three I have forgotten the account-ids and being stupidly lazy, I will never bother to retrieve them again. Done this many problems and yet I make a truckload🚚 of stupid mistakes.
 
-## Dijkstra's algorithm
+I created this repo to write about my approach. In no way it's perfect. And in no way my backlog is anywhere near complete. Infact it grows more than it shrinks down, as I do more and more of such problems.
 
-### [LC Blog-1](https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions)
-### [LC List-1](https://leetcode.com/list/53js48ke/)
+It was decided by me last year(in a `.gitignore`'d file), that I'd start preparing for the switch wholeheartedly once I reach a certain threshold. 160 in my case. And it's now time. I'll be archiving this and be continuing in a next one. Where I'd work on my LLD and HLD skills relevant to interview processes.
 
-## Articulation points
+Lastly, I'd like to put it down that I'll be carring on over at [`ascraeus-mons`](https://github.com/everrover/ascraeus-mons). Do check it out. 
 
-### [LC Blog-2](https://leetcode.com/discuss/general-discussion/709997/questions-based-on-articulation-points-and-bridges/799168)
-
-## Segment tree
-
-- https://www.geeksforgeeks.org/range-queries-to-count-the-number-of-even-parity-values-with-updates/
-
-### Fenwick tree
-
-
-**Microsoft questions set**
-
-- [Min Deletions to Make Frequency of Each Letter Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
-- [Min Swaps to Make Palindrome](https://leetcode.com/discuss/interview-question/351783/)
-- [Min Steps to Make Piles Equal Height](https://leetcode.com/discuss/interview-question/364618/)
-- [Largest K such that both K and -K exist in array](https://leetcode.com/discuss/interview-question/406031/)
-- [Max Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
-- [Unique Integers That Sum Up To 0](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
-- [Partition array into N subsets with balanced sum](https://leetcode.com/discuss/interview-question/430981/)
-- [Jump Game \[Experienced\]](https://leetcode.com/discuss/interview-question/451482/)
-- [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
-- [Count Visible Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
-- [Largest Alphabetic Character](https://leetcode.com/discuss/interview-question/548119/)
-
-# Work stuff
-
-- https://medium.com/@fazazulfikapp/change-spring-boot-kafka-consumer-state-at-runtime-5546341dfa5c
-- https://docs.spring.io/spring-kafka/reference/html/
-- https://whereismyanswer.com/questions/45142205/spring-kafka-subscribe-new-topics-during-runtime
-- https://reflectoring.io/spring-boot-kafka/
-- https://localcoder.org/spring-kafka-subscribe-new-topics-during-runtime
-- https://stackoverflow.com/questions/45142205/spring-kafka-subscribe-new-topics-during-runtime
-
-# Design stuff
-
-- https://www.educative.io/courses/grokking-the-system-design-interview
-- https://www.educative.io/courses/grokking-the-system-design-interview/B81vnyp0GpY
-- https://avinetworks.com/what-is-load-balancing/
-- https://en.wikipedia.org/wiki/Cache_(computing)
-- https://lethain.com/introduction-to-architecting-systems-for-scale/
-- https://lethain.com/tags/
-- Head first design
-- Designing data intensive applications
-- https://www.youtube.com/watch?v=FKA2KgkkcqY
-- Design of Google Docs and similar tools
+P.S. And yes, I am fascinated by space. That's why I finished up the game of Starfield last week.

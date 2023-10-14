@@ -7,7 +7,7 @@ public class DisconnectPathInBinMatrixByAtmostOneFlip {
    * 
    * Simply performed two DFS's which marking traversed nodes as not traversible. Could've used Tarjan's algorithm or Kosaraju's to find SCC and have checked is SCC count is one or not.
    * 
-   * #dfs #rashly-coded
+   * #dfs #rashly-coded #contest
    * TC: O(m*n) SC: O(m*n)
    */
   public boolean isPossibleToCutPath(int[][] grid) {

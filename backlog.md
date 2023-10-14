@@ -197,3 +197,114 @@
 - https://leetcode.com/problems/meeting-rooms-ii/
 - https://leetcode.com/problems/redundant-connection/
 - https://leetcode.com/problems/parallel-courses-iii/
+- https://leetcode.com/problems/sort-array-by-moving-items-to-empty-space/
+- https://leetcode.com/problems/two-sum/
+- https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/
+- https://leetcode.com/problems/divide-array-into-increasing-sequences/description/
+- https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii/description/
+- https://leetcode.com/problems/shortest-path-to-get-all-keys/description/ [HARD]
+- https://leetcode.com/problems/shortest-path-to-get-all-keys/description/
+- https://leetcode.com/problems/max-area-of-island/description/
+- https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/
+- https://leetcode.com/problems/contain-virus/description/
+- https://leetcode.com/problems/encrypt-and-decrypt-strings
+- https://leetcode.com/problems/longest-arithmetic-subsequence/description/
+- https://leetcode.com/problems/maximize-the-confusion-of-an-exam/
+- https://leetcode.com/problems/maximum-score-of-a-node-sequence/description/
+- https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/description/
+- https://leetcode.com/problems/maximum-score-of-a-node-sequence/
+- https://leetcode.com/problems/stock-price-fluctuation/description/
+- https://leetcode.com/problems/find-all-good-strings/description/
+- https://leetcode.com/problems/as-far-from-land-as-possible/description/
+- https://leetcode.com/problems/missing-ranges/description/
+- https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/submissions/
+- https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/
+- Learn about advanced algorithms and data structures
+
+
+### To-Read
+
+- https://www.makeuseof.com/run-a-large-language-model-on-linux/
+- https://byjus.com/maths/boolean-algebra/
+- https://www.programiz.com/java-programming/bitwise-operators
+- https://www.reddit.com/r/Genshin_Impact/comments/q9u3c9/what_is_a_meta_slave/
+- https://snowballstem.org/demo.html#Porter
+- https://snowballstem.org/algorithms/porter/stemmer.html
+- https://github.com/shadeemerhi/tailwind-dark-mode-tutorial/blob/main/hooks/useLocalStorage.tsx
+- https://stackoverflow.com/questions/818535/how-can-i-set-all-bits-to-1-in-a-binary-number-of-an-unknown-size
+- https://iamtrask.github.io/2017/03/17/safe-ai/
+- https://cp-algorithms.com/graph/cutpoints.html
+- https://h2o.ai/
+- https://github.com/orgs/h2oai/people
+- https://www.baeldung.com/spring-boot-get-all-endpoints
+- https://www.baeldung.com/spring-boot-h2-database
+- https://stackoverflow.com/questions/17656373/why-is-there-not-a-concurrent-treemap
+- https://unix.stackexchange.com/questions/79395/how-does-the-sticky-bit-work?noredirect=1&lq=1
+- https://linuxconfig.org/kali-linux-keyboard-shortcuts-cheat-sheet
+- https://stackoverflow.com/questions/43447141/generate-all-palindromic-numbers-in-a-given-number-system
+- https://stackoverflow.com/questions/10312521/how-do-i-fetch-all-git-branches
+- https://www.baeldung.com/java-optional
+- https://medium.com/sysco-labs/reactive-programming-in-java-8d1f5c648012
+- https://tomaszs2.medium.com/java-19-is-a-game-changer-21f5f48d239b
+- https://medium.com/sysco-labs/reactive-programming-in-java-8d1f5c648012
+- https://spring.io/blog/2016/06/13/notes-on-reactive-programming-part-ii-writing-some-code
+- https://www.baeldung.com/java-reactive-systems
+- https://dev.to/christinec_dev/try-hack-me-linux-privesc-complete-write-up-20fg
+- 
+## _Dynamic programming_
+
+### [DP backlog](./dynamicProgrammingBacklog.md)
+### [LinkedIn IE #1](./linkedInIP.md)
+### [DP Leetcode set](https://leetcode.com/explore/learn/card/dynamic-programming/)
+
+## Dijkstra's algorithm
+
+### [LC Blog-1](https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions)
+### [LC List-1](https://leetcode.com/list/53js48ke/)
+
+## Articulation points
+
+### [LC Blog-2](https://leetcode.com/discuss/general-discussion/709997/questions-based-on-articulation-points-and-bridges/799168)
+
+## Segment tree
+
+- https://www.geeksforgeeks.org/range-queries-to-count-the-number-of-even-parity-values-with-updates/
+
+### Fenwick tree
+
+
+**Microsoft questions set**
+
+- [Min Deletions to Make Frequency of Each Letter Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
+- [Min Swaps to Make Palindrome](https://leetcode.com/discuss/interview-question/351783/)
+- [Min Steps to Make Piles Equal Height](https://leetcode.com/discuss/interview-question/364618/)
+- [Largest K such that both K and -K exist in array](https://leetcode.com/discuss/interview-question/406031/)
+- [Max Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
+- [Unique Integers That Sum Up To 0](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
+- [Partition array into N subsets with balanced sum](https://leetcode.com/discuss/interview-question/430981/)
+- [Jump Game \[Experienced\]](https://leetcode.com/discuss/interview-question/451482/)
+- [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
+- [Count Visible Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
+- [Largest Alphabetic Character](https://leetcode.com/discuss/interview-question/548119/)
+
+# Work stuff
+
+- https://medium.com/@fazazulfikapp/change-spring-boot-kafka-consumer-state-at-runtime-5546341dfa5c
+- https://docs.spring.io/spring-kafka/reference/html/
+- https://whereismyanswer.com/questions/45142205/spring-kafka-subscribe-new-topics-during-runtime
+- https://reflectoring.io/spring-boot-kafka/
+- https://localcoder.org/spring-kafka-subscribe-new-topics-during-runtime
+- https://stackoverflow.com/questions/45142205/spring-kafka-subscribe-new-topics-during-runtime
+
+# Design stuff
+
+- https://www.educative.io/courses/grokking-the-system-design-interview
+- https://www.educative.io/courses/grokking-the-system-design-interview/B81vnyp0GpY
+- https://avinetworks.com/what-is-load-balancing/
+- https://en.wikipedia.org/wiki/Cache_(computing)
+- https://lethain.com/introduction-to-architecting-systems-for-scale/
+- https://lethain.com/tags/
+- Head first design
+- Designing data intensive applications
+- https://www.youtube.com/watch?v=FKA2KgkkcqY
+- Design of Google Docs and similar tools
